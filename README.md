@@ -115,8 +115,8 @@ ORDER BY AvgNetSalary DESC;
 **Insight:**  
 | Department | Avg. Net Salary ($) | Observation |
 |-------------|----------------------|--------------|
-| Legal & Compliance | ~11,287 | 💰 Highest |
-| Finance | ~2,500 | ⚠️ Lowest |  
+| Legal & Compliance | $11,287 | 💰 Highest |
+| Finance | $2,500 | ⚠️ Lowest |  
 Significant pay gaps across departments highlight internal inequality.  
 
 ---
