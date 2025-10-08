@@ -51,7 +51,8 @@ The database contains four key tables:
 
 Below is the visual schema representation:  
 
-![ERD](Max_Holdings_ERD.png)
+
+<img width="2047" height="582" alt="Max_Holdings_ERD" src="https://github.com/user-attachments/assets/484d1e32-4f8a-4c5b-b72a-d54ae0b5f836" />
 
 ---
 
