@@ -1,0 +1,155 @@
+Division_ID,Division,Dept_ID
+1,Acquisitions - ECG IAE Pre-Sales,201
+2,AmaTec - Americas TSE,201
+3,AmaTec - APJ TSE,201
+4,AmaTec - APS,201
+5,AmaTec - BOCC,202
+6,AmaTec - BOCC/EMM,202
+7,AmaTEC - BOCC/ESG,202
+8,AmaTec - CIAM,203
+9,AmaTec - EMEA TSE,201
+10,AmaTec - Incident Mgmt,202
+11,AmaTec - Mgmt,202
+12,AmaTec - PSG,202
+13,AmaTec - SDM,202
+14,AmaTec - Weekend TSE,201
+15,Americas- AMG,201
+16,APJ - AMG,201
+17,APJ Channel Pre-Sales,201
+18,APJ EM - SA/IN,201
+19,APJ Enterprise Pre-Sales,201
+20,APJ Enterprise Sales,201
+21,APJ PS - SA/IN,201
+22,APJ Sales Development,201
+23,APJ Security Management,204
+24,APJ Security Sales,204
+25,APJ Security Services,204
+26,APJ Security Services - SOCC,204
+27,APJ Services Mgmt,205
+28,App Architecture & Integration Services,206
+29,Campaign Optimization,201
+30,Campaign Planning,201
+31,CIO Management,202
+32,Core East - PS,206
+33,Core West - PS,206
+34,Corporate Systems,202
+35,Customer Experience,205
+36,Data Engineering Analytics & Intelligence,206
+37,Developer Productivity,206
+38,DPM Engineering,206
+39,Dynamic Media SQA,207
+40,EMEA - AMG,201
+41,Engineering Learning,206
+42,Enterprise Access Engineering,206
+43,Enterprise Applications,206
+44,Enterprise Architecture and Security,204
+45,Enterprise Center,202
+46,Enterprise Infrastructure Services,202
+47,Enterprise Networks,202
+48,Enterprise Product Management,208
+49,Enterprise Security,204
+50,Finance - Accounting,209
+51,Finance - Commissions & Marketing,209
+52,Finance - Customer Revenue Operations G&A,209
+53,Finance - Customer Revenue Operations S&M,209
+54,Finance Services PS,209
+55,Financial Planning and Analysis,209
+56,Global Channel - Enablement - SE,201
+57,Global Channel - Programs Support,201
+58,Global Procurement,202
+59,Global Real Estate and Workplace Productivity,202
+60,Global Sales Ops,201
+61,GPO PMO & Business Operations,210
+62,GSS EPIC CIAM,204
+63,GSS EPIC Engineering (HC COGS),206
+64,GSS EPIC GCS SDK,206
+65,GSS EPIC Product Evaluation,208
+66,GSS EPIC Product Management and Marketing,208
+67,GSS Global Programs,210
+68,GSS Service Delivery Mgmt,205
+69,GSS Service Enablement,205
+70,GSS Technical Enablement,206
+71,International - Business Partners,211
+72,International - Comp & Ben,211
+73,International - HR Operations,211
+74,International - Learning & Dev,212
+75,IT Business Process Improvement & Change Mgmt,202
+76,IT DevOps,206
+77,IT Product Management & Ops,206
+78,Learning & Development,212
+79,Legal,213
+80,LUNA Program Management,210
+81,LUNA User Experience Design,207
+82,LUNA/OPEN Engineering,206
+83,Luna/Open Product,208
+84,Marketing - Operations,201
+85,Marketing - Technical Marketing,201
+86,Marketing - Website Management,201
+87,Marketing Data Analytics,201
+88,Marketplace Product Management,208
+89,Media & Carrier Business Development,207
+90,Media & Carrier Specialists,207
+91,Media AMER PreSales Inside Sales & ECG,201
+92,Media AMER Sales ECG,201
+93,Media Analytics,207
+94,Media APJ Field Marketing,207
+95,Media APJ PreSales Mgmt,201
+96,Media Delivery Product Engineering,207
+97,Media Division Finance,209
+98,Media Division Sales Ops,201
+99,Media Engineering Program Management,206
+100,Media Experience Product Architecture,207
+101,Media Experience SQA,207
+102,Media Ghost,207
+103,Media Global Industry Marketing,207
+104,Media Portal,207
+105,Media Reliability Engineering,207
+106,Media Services Engineering,207
+107,Mobile Product,208
+108,Networks - Americas Infrastructure,202
+109,Networks - APJ Infrastructure,202
+110,Networks - EMEA Infrastructure,202
+111,Networks - Planning,202
+112,Networks - Productivity,202
+113,Networks - Productivity - Systems,202
+114,Networks - Technology,206
+115,PlatEng Management,206
+116,Platform Enablement_OLD,206
+117,Platform Mapping Engineering,206
+118,Platform Operations,202
+119,Platform Operations - Custom,202
+120,Product - Custom,208
+121,Program Management,210
+122,Security Engineering,204
+123,Security Product,204
+124,Service Delivery Americas Media,205
+125,Service Delivery Americas Web,205
+126,Service Delivery APJ,205
+127,Service Delivery DPM,205
+128,Service Delivery EMEA,205
+129,Service Delivery Excellence,205
+130,Service Delivery Special Projects,210
+131,Storage Engineering,206
+132,Syscomm,203
+133,Talent Acquisition,211
+134,Technology,206
+135,Technology Research and Evangelism,206
+136,Training - Sales Enablement,212
+137,Web Americas - ECG,201
+138,Web Americas Field East,201
+139,Web Americas Field Marketing,201
+140,Web Americas Field West,201
+141,Web Americas Inside Sales East,201
+142,Web Americas Services Management,205
+143,Web APJ Field Marketing,207
+144,Web APJ Presales Mgmt,201
+145,Web APJ Sales Mgmt,201
+146,Web Developer Relations,207
+147,Web Division Finance,209
+148,Web Division Sales Ops,201
+149,Web Global Channel Marketing,201
+150,Web Global Industry & Product Marketing,207
+151,Web Performance Engineering,206
+152,Web Shared Engineering - Performance,206
+153,Web Strategy,207
+154,Wizards Program,210

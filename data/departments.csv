@@ -1,0 +1,15 @@
+Dept_ID,Department,HOD_ID,Dept_Resumption_Time,Dept_Closing_Time
+201,Sales & Marketing,22999,10:00:00,17:30:00
+202,Operations & Infrastructure,22998,09:00:00,17:00:00
+203,Technology,5630,08:15:00,16:30:00
+204,Security Engineering,22986,08:15:00,17:30:00
+205,Customer Experience & Service Delivery,22866,09:30:00,16:30:00
+206,Engineering & Technology,22950,09:30:00,16:30:00
+207,Media & Communications,22922,09:00:00,17:00:00
+208,Product Management,23037,10:00:00,18:00:00
+209,Finance,4074,08:45:00,17:00:00
+210,Program Management,11673,10:00:00,17:30:00
+211,Human Resources & Talent,19748,08:45:00,15:30:00
+212,Learning & Development,21565,08:45:00,17:00:00
+213,Legal & Compliance,21184,09:00:00,17:00:00
+,,,,

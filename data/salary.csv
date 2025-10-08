@@ -1,0 +1,1803 @@
+Designation,EmpID,Division_ID,Tenure_in_org_in_months,Gross_Pay,Net_Pay,Deduction,Deduction_percentage
+Account Service Manager..,20320,15,25,69862,62457,7405,10.6
+Account Service Manager..,22790,40,8,65856,60912,4944,7.51
+Account Service Manager..,18466,40,36,61382,55417,5965,9.72
+Account Service Manager..,18656,15,35,62947,59926,3021,4.8
+Account Service Manager..,22974,15,6,76330,72303,4027,5.28
+Account Service Manager..,18224,15,37,70716,67417,3299,4.67
+Account Service Manager..,18978,40,34,59496,53573,5923,9.96
+Account Service Manager..,18661,15,35,66707,58372,8335,12.49
+Account Service Manager..,20762,15,22,71662,68514,3148,4.39
+Account Service Manager..,22361,16,10,63902,57883,6019,9.42
+Account Service Manager..,17205,15,41,72307,65134,7173,9.92
+Account Service Manager..,18833,16,34,66379,58433,7946,11.97
+Account Service Manager..,22686,15,8,68880,65566,3314,4.81
+Account Service Manager..,21684,15,15,79822,70138,9684,12.13
+Account Service Manager.Associate.,20953,15,11,80050,77272,2778,3.47
+Account Service Manager.Associate.,20874,15,11,54100,43545,10555,19.51
+Account Service Manager.Associate.,20956,16,11,46150,41442,4708,10.2
+Accountant II..,9999,50,70,104000,90929,13071,12.57
+Accountant.Senior Lead.,4583,50,140,172823,106267,66556,38.51
+Accountant.Senior.,3245,50,90,148170,88135,60035,40.52
+Accountant.Senior.,4977,50,129,154895,122038,32857,21.21
+Accountant.Senior.,2815,50,190,146276,97115,49161,33.61
+Accounts Receivable Specialist.Senior.,4380,52,144,130158,112635,17523,13.46
+Accounts Receivable Specialist.Senior.,19061,52,33,77513,73823,3690,4.76
+Applications Developer II..,22973,34,6,215363,203851,11512,5.35
+Applications Developer.Senior Lead.,12275,86,63,226199,133080,93119,41.17
+Applications Developer.Senior.,5953,86,114,205735,158444,47291,22.99
+Applications Developer.Senior.,17821,34,12,198367,129225,69142,34.86
+Applications Developer.Senior.,8942,85,83,209537,160838,48699,23.24
+Architect..,8452,28,86,238054,124860,113194,47.55
+Architect..,8741,4,84,261530,148871,112659,43.08
+Architect.Lead.,14835,104,58,300930,163371,137559,45.71
+Architect.Principal Lead.,11255,93,69,513881,260469,253412,49.31
+Architect.Senior Lead.,16711,42,45,453088,247288,205800,45.42
+Architect.Senior.,4513,43,141,355205,251574,103631,29.17
+Architect.Senior.,15636,37,52,390375,271852,118523,30.36
+Architect.Senior.,4580,100,140,370929,203592,167337,45.11
+Architect.Senior.,10899,100,71,277920,156372,121548,43.73
+Architect.Senior.,6576,34,103,356847,215870,140977,39.51
+Billing Specialist II..,16581,52,46,84996,76532,8464,9.96
+Billing Specialist II..,17734,52,39,85323,76493,8830,10.35
+Billing Specialist..,20384,52,24,93105,81396,11709,12.58
+Billing Specialist..,14596,52,60,76377,65039,11338,14.84
+Billing Specialist..,20769,52,22,83591,56658,26933,32.22
+Billing Specialist..,22294,52,11,81400,77600,3800,4.67
+Billing Specialist..,22248,52,11,94365,90293,4072,4.32
+Billing Specialist.Senior Lead.,7074,52,98,114995,97356,17639,15.34
+Billing Specialist.Senior Lead.,4226,52,146,118705,99377,19328,16.28
+Billing Specialist.Senior.,11521,52,67,112193,95460,16733,14.91
+Billing Specialist.Senior.,11686,52,66,100945,66953,33992,33.67
+Booking Operations Analyst II..,19503,55,32,79625,57318,22307,28.02
+Booking Operations Analyst II..,18780,55,35,102846,73199,29647,28.83
+Booking Operations Analyst II..,16312,55,12,99871,75829,24042,24.07
+Booking Operations Analyst II..,17358,55,40,95798,84390,11408,11.91
+Booking Operations Analyst II..,17425,55,40,86990,77701,9289,10.68
+Booking Operations Analyst..,21613,55,15,88822,50604,38218,43.03
+Booking Operations Analyst.Senior Lead.,5004,55,121,119991,102286,17705,14.76
+Booking Operations Analyst.Senior.,10974,55,70,115710,98151,17559,15.18
+Business Operations Analyst II..,19549,60,31,118810,99195,19615,16.51
+Business Operations Analyst II..,17400,60,40,106343,98165,8178,7.69
+Business Operations Analyst II..,22951,153,7,105705,99877,5828,5.51
+Business Operations Analyst II..,16841,60,44,99948,72988,26960,26.97
+Business Operations Analyst II..,22903,87,7,112067,105317,6750,6.02
+Business Operations Analyst II..,4004,75,152,114404,98666,15738,13.76
+Business Operations Analyst II..,9258,129,80,111259,80753,30506,27.42
+Business Operations Analyst II..,18765,148,35,119724,81953,37771,31.55
+Business Operations Analyst II..,17936,84,38,95440,84522,10918,11.44
+Business Operations Analyst II..,12056,75,64,90095,69858,20237,22.46
+Business Operations Analyst..,17357,60,40,89053,80032,9021,10.13
+Business Operations Analyst..,8690,52,85,102074,86776,15298,14.99
+Business Operations Analyst..,16378,60,23,78350,71189,7161,9.14
+Business Operations Analyst..,21644,84,15,72547,71246,1301,1.79
+Business Operations Analyst..,22999,148,6,150035,143798,6237,4.16
+Business Operations Analyst..,22086,84,12,80333,75448,4885,6.08
+Business Operations Analyst..,18464,53,36,100874,84620,16254,16.11
+Business Operations Analyst.Senior Lead.,19007,153,34,186782,94460,92322,49.43
+Business Operations Analyst.Senior Lead.,8999,148,83,162081,110751,51330,31.67
+Business Operations Analyst.Senior Lead.,5785,84,102,177575,137190,40385,22.74
+Business Operations Analyst.Senior.,22449,84,10,142833,128202,14631,10.24
+Business Operations Analyst.Senior.,8334,98,87,147368,101134,46234,31.37
+Business Operations Analyst.Senior.,14257,129,61,142850,103909,38941,27.26
+Business Operations Analyst.Senior.,22788,148,8,175533,140203,35330,20.13
+Business Operations Analyst.Senior.,20942,84,21,154337,93325,61012,39.53
+Business Operations Analyst.Senior.,22726,153,8,162667,114570,48097,29.57
+Business Operations Analyst.Senior.,22222,84,11,143800,118089,25711,17.88
+Business Operations Analyst.Senior.,6475,153,90,148977,123831,25146,16.88
+Business Operations Analyst.Senior.,14171,60,62,150682,119264,31418,20.85
+Business Operations Analyst.Senior.,9446,98,79,127917,105822,22095,17.27
+Business Operations Analyst.Senior.,7863,98,91,171305,130538,40767,23.8
+Business Operations Analyst.Senior.,14630,98,60,173960,112098,61862,35.56
+Business Systems Analyst..,22560,43,9,111591,105150,6441,5.77
+Business Systems Analyst..,21903,43,13,100167,82684,17483,17.45
+Business Systems Analyst..,21557,46,16,104133,88748,15385,14.77
+Business Systems Analyst.Senior II Lead.,11649,43,67,218694,122797,95897,43.85
+Business Systems Analyst.Senior II Lead.,15479,43,54,266894,196955,69939,26.2
+Business Systems Analyst.Senior II Lead.,22428,34,10,225117,152745,72372,32.15
+Business Systems Analyst.Senior II.,19019,34,33,188562,97476,91086,48.31
+Business Systems Analyst.Senior II.,19859,43,29,183236,129736,53500,29.2
+Business Systems Analyst.Senior II.,19090,34,33,182404,71820,110584,60.63
+Business Systems Analyst.Senior II.,17977,34,38,178748,103325,75423,42.2
+Business Systems Analyst.Senior II.,8714,88,85,213017,101622,111395,52.29
+Business Systems Analyst.Senior II.,22845,34,7,181202,127772,53430,29.49
+Business Systems Analyst.Senior II.,18754,34,28,219914,128433,91481,41.6
+Business Systems Analyst.Senior II.,20629,77,23,234061,151138,82923,35.43
+Business Systems Analyst.Senior.,17877,34,38,123232,86424,36808,29.87
+Business Systems Analyst.Senior.,21028,34,20,124559,60004,64555,51.83
+Business Systems Analyst.Senior.,10418,34,73,175864,148043,27821,15.82
+Business Systems Analyst.Senior.,16433,43,47,142609,118454,24155,16.94
+Business Systems Analyst.Senior.,19843,34,29,180820,117902,62918,34.8
+Business Systems Analyst.Senior.,20257,88,25,201724,184454,17270,8.56
+Business Systems Analyst.Senior.,12006,34,64,161941,113079,48862,30.17
+Business Systems Analyst.Senior.,19456,43,32,135454,92948,42506,31.38
+Business Systems Analyst.Senior.,18614,34,35,130485,109811,20674,15.84
+Business Systems Analyst.Senior.,18559,34,36,159366,76587,82779,51.94
+Business Systems Analyst.Senior.,22709,34,8,175533,128537,46996,26.77
+Business Systems Analyst.Senior.,9829,82,77,153087,120870,32217,21.04
+Business Systems Analyst.Senior.,6273,43,9,167600,107146,60454,36.07
+Business Systems Analyst.Senior.,19398,43,32,180489,123244,57245,31.72
+Business Systems Analyst.Senior.,19858,34,29,187090,113754,73336,39.2
+Business Systems Analyst.Senior.,10734,34,72,154411,92577,61834,40.05
+Business Systems Analyst.Senior.,6404,63,106,168397,138032,30365,18.03
+Business Systems Analyst.Senior.,9965,34,31,182545,145906,36639,20.07
+Business Systems Analyst.Senior.,17211,34,41,121682,97729,23953,19.68
+Business Systems Analyst.Senior.,18207,34,37,167111,134108,33003,19.75
+Capacity Planning Manager..,12277,111,63,224150,132824,91326,40.74
+Channel Marketing Specialist.Senior.,22173,149,12,111591,92482,19109,17.12
+Channel Support Manager..,3156,57,170,129398,103348,26050,20.13
+Channel Support Manager..,10045,57,75,124469,87881,36588,29.4
+Channel Support Manager.Senior.,14411,57,61,153224,123406,29818,19.46
+Client Service Manager..,22195,15,11,102545,92467,10078,9.83
+Client Service Manager..,20130,40,26,87890,78428,9462,10.77
+Client Service Manager..,16248,15,48,113169,97540,15629,13.81
+Client Service Manager..,22204,15,11,95681,81586,14095,14.73
+Client Service Manager..,15092,15,57,119519,102814,16705,13.98
+Client Service Manager..,19052,15,33,117463,94093,23370,19.9
+Client Service Manager..,18799,40,35,104088,91361,12727,12.23
+Client Service Manager..,18105,16,37,101757,73246,28511,28.02
+Client Service Manager..,20579,15,23,94937,85343,9594,10.11
+Client Service Manager..,17019,15,43,98594,86224,12370,12.55
+Client Service Manager..,22154,15,12,88883,80725,8158,9.18
+Client Service Manager..,19063,16,33,96081,82680,13401,13.95
+Client Service Manager..,16247,15,48,85203,60474,24729,29.02
+Client Service Manager..,20632,15,23,122794,90429,32365,26.36
+Client Service Manager..,21584,15,15,100454,87738,12716,12.66
+Client Service Manager..,22720,15,8,96367,91567,4800,4.98
+Client Service Manager..,18776,40,35,100368,91847,8521,8.49
+Client Service Manager..,10246,16,74,84765,73512,11253,13.28
+Client Service Manager..,22353,15,10,148312,146080,2232,1.5
+Client Service Manager..,19426,16,32,85441,75857,9584,11.22
+Client Service Manager..,22274,15,11,100341,85888,14453,14.4
+Client Service Manager..,11099,15,70,97879,83293,14586,14.9
+Client Service Manager..,16768,16,45,73671,68251,5420,7.36
+Client Service Manager..,19642,15,30,92883,79618,13265,14.28
+Client Service Manager..,19852,15,29,89629,80282,9347,10.43
+Client Service Manager..,19887,40,28,87473,78374,9099,10.4
+Client Service Manager..,17931,15,38,96221,63817,32404,33.68
+Client Service Manager..,19440,15,32,99079,77518,21561,21.76
+Client Service Manager..,20189,40,26,90509,78808,11701,12.93
+Client Service Manager..,18922,15,34,180518,151389,29129,16.14
+Client Service Manager..,22573,15,9,102266,97201,5065,4.95
+Client Service Manager.Associate.,17490,40,39,70549,62631,7918,11.22
+Client Service Manager.Associate.,17061,16,42,62908,58870,4038,6.42
+Client Service Manager.Associate.,18918,15,34,62100,58263,3837,6.18
+Client Service Manager.Associate.,20149,15,26,76165,55655,20510,26.93
+Client Service Manager.Associate.,18653,15,35,66079,59055,7024,10.63
+Client Service Manager.Associate.,22138,15,12,71542,65668,5874,8.21
+Client Service Manager.Associate.,20458,15,24,75174,67504,7670,10.2
+Client Service Manager.Senior II.,4076,16,63,149638,122076,27562,18.42
+Client Service Manager.Senior II.,4231,15,41,274262,187141,87121,31.77
+Client Service Manager.Senior II.,9712,40,78,143647,118950,24697,17.19
+Client Service Manager.Senior II.,4653,16,137,149470,118242,31228,20.89
+Client Service Manager.Senior II.,4957,16,130,148259,114206,34053,22.97
+Client Service Manager.Senior.,10503,16,73,121795,85800,35995,29.55
+Client Service Manager.Senior.,8691,15,85,120781,104067,16714,13.84
+Client Service Manager.Senior.,16440,40,47,112503,89850,22653,20.14
+Client Service Manager.Senior.,9205,15,81,103347,89615,13732,13.29
+Client Service Manager.Senior.,9150,15,81,121135,100692,20443,16.88
+Client Service Manager.Senior.,16188,40,49,111723,97202,14521,13
+Client Service Manager.Senior.,16233,15,48,113015,95562,17453,15.44
+Client Service Manager.Senior.,6991,40,99,120674,106363,14311,11.86
+Client Service Manager.Senior.,16228,15,48,101777,88312,13465,13.23
+Client Service Manager.Senior.,16627,40,46,116975,89572,27403,23.43
+Client Service Manager.Senior.,3860,16,63,121168,103403,17765,14.66
+Client Service Manager.Senior.,14024,15,62,117441,56141,61300,52.2
+Client Service Manager.Senior.,16252,16,48,100337,72401,27936,27.84
+Client Service Manager.Senior.,10871,15,71,130814,111122,19692,15.05
+Client Service Manager.Senior.,10009,15,76,124896,104439,20457,16.38
+Client Service Manager.Senior.,10324,15,74,142057,101232,40825,28.74
+Client Service Manager.Senior.,12255,16,63,109513,93208,16305,14.89
+Client Service Manager.Senior.,15483,40,54,105715,88401,17314,16.38
+Client Service Manager.Senior.,14629,15,60,124970,100901,24069,19.26
+Client Service Manager.Senior.,8335,15,87,190276,152851,37425,19.67
+Client Service Manager.Senior.,8870,15,84,122186,75419,46767,38.28
+Client Service Manager.Senior.,8383,40,87,112341,94934,17407,15.49
+Client Service Manager.Senior.,11248,15,69,119386,97432,21954,18.39
+Client Service Manager.Senior.,9940,15,76,116201,94166,22035,18.96
+Client Service Manager.Senior.,19889,40,28,149575,130522,19053,12.74
+Client Service Manager.Senior.,16769,15,45,114830,83107,31723,27.63
+Client Service Manager.Senior.,17027,15,43,126604,110360,16244,12.83
+Client Service Manager.Senior.,10735,15,72,142274,117175,25099,17.64
+Client Service Manager.Senior.,14638,40,60,98144,93163,4981,5.08
+Client Service Manager.Senior.,15346,15,55,102828,90655,12173,11.84
+Collections Specialist II..,9040,52,51,87616,77640,9976,11.39
+Collections Specialist II..,19122,52,33,93973,72668,21305,22.67
+Collections Specialist..,18811,52,34,80551,69908,10643,13.21
+Collections Specialist..,20351,52,25,99325,74621,24704,24.87
+Collections Specialist..,20308,52,25,79035,70419,8616,10.9
+Collections Specialist..,21495,52,17,94576,82246,12330,13.04
+Collections Specialist.Senior Lead.,7669,52,93,138234,103755,34479,24.94
+Collections Specialist.Senior Lead.,5637,52,113,121945,104423,17522,14.37
+Collections Specialist.Senior.,6548,52,104,133761,113381,20380,15.24
+Collections Specialist.Senior.,10137,52,75,118803,63761,55042,46.33
+Collections Specialist.Senior.,16100,52,49,121659,105283,16376,13.46
+Collections Specialist.Senior.,6586,52,103,109934,94501,15433,14.04
+Collections Specialist.Senior.,14435,52,61,107465,82188,25277,23.52
+Collections Supervisor..,4070,52,150,134700,107206,27494,20.41
+Commissions Analyst II..,14530,51,60,110257,94609,15648,14.19
+Commissions Analyst.Senior.,8857,51,84,112805,33439,79366,70.36
+Compensation and Benefits Specialist.Senior.,3942,72,123,232765,137256,95509,41.03
+Contract/Billing Analyst II..,12370,52,62,93458,80876,12582,13.46
+Contract/Billing Analyst II..,12349,52,63,104470,78387,26083,24.97
+Contract/Billing Analyst II..,15857,52,50,101320,77255,24065,23.75
+Contract/Billing Analyst II..,16457,52,47,167190,137220,29970,17.93
+Contract/Billing Analyst II..,16214,52,48,96386,82760,13626,14.14
+Contract/Billing Analyst II..,11949,52,65,84207,77051,7156,8.5
+Contract/Billing Analyst..,20726,52,22,88729,62718,26011,29.32
+Contract/Billing Analyst..,22429,52,10,81817,78117,3700,4.52
+Contract/Billing Analyst..,21781,52,14,89125,70412,18713,21
+Contract/Billing Analyst..,20830,52,21,82831,72776,10055,12.14
+Contract/Billing Analyst..,20652,52,23,89433,74745,14688,16.42
+Contract/Billing Analyst..,19957,52,28,75997,68477,7520,9.9
+Contract/Billing Analyst..,21711,52,14,118734,117373,1361,1.15
+Contract/Billing Analyst..,19938,52,28,55644,52381,3263,5.86
+Contract/Billing Analyst..,17733,52,39,86862,53032,33830,38.95
+Contract/Billing Analyst..,23001,52,6,92714,87187,5527,5.96
+Contract/Billing Analyst.Associate.,22292,52,11,66312,62049,4263,6.43
+Contract/Billing Analyst.Associate.,22298,52,11,66912,63986,2926,4.37
+Contract/Billing Analyst.Senior Lead.,9941,52,76,113498,92624,20874,18.39
+Contract/Billing Analyst.Senior Lead.,6161,52,81,105936,87427,18509,17.47
+Contract/Billing Analyst.Senior.,11023,52,70,119909,72111,47798,39.86
+Contract/Billing Analyst.Senior.,7910,52,91,99648,70407,29241,29.34
+Contract/Billing Analyst.Senior.,10265,52,74,122378,58204,64174,52.44
+Contract/Billing Analyst.Senior.,14785,52,59,106837,91954,14883,13.93
+Contract/Billing Analyst.Senior.,10106,52,75,119557,85318,34239,28.64
+Contract/Billing Analyst.Senior.,8941,52,83,136574,73712,62862,46.03
+Contract/Billing Analyst.Senior.,11202,52,69,108139,96176,11963,11.06
+Corporate Services Specialist.Senior Lead.,11930,59,65,107049,68501,38548,36.01
+Counsel..,21970,79,13,197486,125252,72234,36.58
+Counsel.Senior.,21184,79,18,329901,232911,96990,29.4
+Customer Incident Manager II..,21168,10,19,218690,147528,71162,32.54
+Customer Incident Manager II..,4900,10,132,225741,133635,92106,40.8
+Customer Incident Manager..,22360,10,10,183340,146848,36492,19.9
+Data Engineer II..,21090,36,20,120620,97288,23332,19.34
+Data Engineer..,22146,36,12,73813,57558,16255,22.02
+Data Engineer..,20816,36,22,97981,70014,27967,28.54
+Data Engineer.Senior II Lead.,14058,36,59,242018,144561,97457,40.27
+Data Engineer.Senior.,20957,36,21,183012,111450,71562,39.1
+Data Scientist..,22359,122,10,138867,101954,36913,26.58
+Data Scientist.Senior.,22750,122,8,199333,139639,59694,29.95
+Data Scientist.Senior.,15570,87,53,231067,186444,44623,19.31
+Data Scientist.Senior.,22769,122,8,167600,96868,70732,42.2
+Database Administrator II..,5782,46,117,168377,120917,47460,28.19
+Database Administrator II..,20528,46,24,165443,132914,32529,19.66
+Database Administrator.Senior Lead.,14235,46,61,281660,197175,84485,30
+Deal Desk Analyst II..,8848,53,68,110314,95604,14710,13.33
+Deal Desk Analyst.Senior Lead.,8180,53,88,208856,91469,117387,56.2
+Deal Desk Analyst.Senior.,16513,53,47,172987,137660,35327,20.42
+Deal Desk Analyst.Senior.,6374,53,106,197567,140147,57420,29.06
+Developer Evangelist..,17203,146,41,343230,191502,151728,44.21
+Director..Account Management,8113,16,89,456160,225164,230996,50.64
+Director..Accounting,5238,50,123,385084,198291,186793,48.51
+Director..Customer Financial Operations,5433,52,121,492954,309398,183556,37.24
+Director..Engineering,16706,42,45,968178,466509,501669,51.82
+Director..Engineering,11865,93,65,767947,374354,393593,51.25
+Director..Engineering,3936,43,120,519979,251383,268596,51.66
+Director..Engineering,15660,37,52,711862,456189,255673,35.92
+Director..Engineering,3068,82,173,730261,302652,427609,58.56
+Director..Finance,8301,97,87,638987,414768,224219,35.09
+Director..Human Resources,5069,71,127,747518,366424,381094,50.98
+Director..Platform Operations,8694,120,85,491032,240075,250957,51.11
+Director..Product Line,5960,89,113,618037,307305,310732,50.28
+Director..Product Operations,11499,129,67,552153,272565,279588,50.64
+Director..Program Management,2810,154,190,426883,221730,205153,48.06
+Director..Program Management Technical,11441,43,68,614940,304828,310112,50.43
+Director..Service Line,9221,26,81,559084,292979,266105,47.6
+Director..Technical Support,4421,11,143,443238,296946,146292,33.01
+Director..Technical Support,17732,11,39,486983,269308,217675,44.7
+Director.Senior.Engineering,5162,76,125,764148,457836,306312,40.09
+Director.Senior.Technical Support,5989,11,113,564931,270306,294625,52.15
+Documentation and Training Specialist..,17259,41,41,104813,87133,17680,16.87
+Documentation and Training Specialist.Senior.,18239,41,37,130710,111708,19002,14.54
+Documentation and Training Specialist.Senior.,17835,41,38,186658,139906,46752,25.05
+Documentation and Training Specialist.Senior.,17663,41,39,181728,141377,40351,22.2
+ECG Sales Manager..,4995,92,102,352455,206916,145539,41.29
+Engagement Manager II..,8360,18,27,209378,128164,81214,38.79
+Engagement Manager.Senior.,11668,18,25,260309,187313,72996,28.04
+Enterprise Sales Executive.Principal.New and Existing Accts,20635,20,23,449442,297643,151799,33.77
+Enterprise Security Architect.Senior II.,22033,24,12,432400,293268,139132,32.18
+Enterprise Security Architect.Senior.,16441,24,48,237803,138768,99035,41.65
+Escalation Manager..,4608,26,139,278248,164628,113620,40.83
+Executive Assistant..,21166,145,19,152512,98677,53835,35.3
+Finance Systems Analyst..,11251,55,69,106644,76684,29960,28.09
+Finance Systems Analyst.Associate.,22432,34,10,64863,53246,11617,17.91
+Finance Systems Analyst.Senior Lead.,4074,55,8,253273,167332,85941,33.93
+Financial Analyst II..,20977,147,21,114114,75367,38747,33.95
+Financial Analyst II..,22435,147,10,129450,99486,29964,23.15
+Financial Analyst..,21713,97,14,75400,65128,10272,13.62
+Financial Analyst.Senior Lead.,8234,147,88,190606,141653,48953,25.68
+Financial Analyst.Senior.,9870,97,77,187720,132579,55141,29.37
+Financial Analyst.Senior.,11347,147,63,177650,142009,35641,20.06
+Global Corporate Card Specialist.Senior.,22784,58,8,111591,105477,6114,5.48
+Graphic Designer II..,10516,78,35,92187,79386,12801,13.89
+Graphic Designer II..,8277,78,87,126802,81582,45220,35.66
+Graphic Designer II..,9159,78,41,96100,68327,27773,28.9
+Graphic Designer.Senior Lead.,9877,78,77,170118,135430,34688,20.39
+Hardware Performance Engineer II..,8911,114,83,155130,125345,29785,19.2
+Hardware Performance Engineer II..,5993,114,113,143287,97853,45434,31.71
+Help Desk Administrator..,20820,46,13,66683,51500,15183,22.77
+Help Desk Administrator..,14768,46,59,69255,49040,20215,29.19
+Help Desk Administrator.Senior.,16771,46,45,76504,70499,6005,7.85
+Help Desk Specialist..,10249,46,74,92346,79630,12716,13.77
+Help Desk Specialist..,4998,46,104,110466,98824,11642,10.54
+Help Desk Specialist..,10990,46,22,88840,75441,13399,15.08
+Help Desk Specialist.Associate.,21714,46,14,64154,59002,5152,8.03
+Human Resources Business Partner II..,8715,71,85,240530,141297,99233,41.26
+Human Resources Business Partner II..,14300,71,61,189612,72857,116755,61.58
+Human Resources Business Partner.Senior.,19563,71,31,321045,144491,176554,54.99
+Human Resources Specialist II..,8849,73,62,102283,62511,39772,38.88
+Human Resources Specialist II..,6473,73,69,99509,85998,13511,13.58
+Incident Manager..,8450,118,86,210649,93901,116748,55.42
+Incident Manager..,4028,118,150,225669,168573,57096,25.3
+Infrastructure Delivery Manager II..,7887,109,91,164386,109732,54654,33.25
+Infrastructure Delivery Manager II..,9871,110,71,141286,112724,28562,20.22
+Infrastructure Delivery Manager..,22171,109,12,128950,113871,15079,11.69
+Infrastructure Delivery Manager..,20524,109,24,142695,112539,30156,21.13
+Infrastructure Delivery Manager..,15478,110,54,112067,104317,7750,6.92
+Infrastructure Delivery Manager..,22902,109,7,286487,254322,32165,11.23
+Instructional Designer.Senior.,12419,78,41,168148,108545,59603,35.45
+Instructional Designer.Senior.,8092,78,89,298183,295901,2282,0.77
+Instructional Designer.Senior.,8266,78,23,195114,144455,50659,25.96
+Lab Manager II..,15665,108,52,104313,90502,13811,13.24
+Lead..Account Management,10345,40,74,144182,93110,51072,35.42
+Lead..Account Management,5920,40,115,153716,125768,27948,18.18
+Lead..Account Management,7856,15,91,159805,126020,33785,21.14
+Lead..Account Management,9358,15,79,168456,136841,31615,18.77
+Lead..Account Management,15715,15,51,145626,116160,29466,20.23
+Learning & Development Specialist II..,19471,74,32,101739,84901,16838,16.55
+Learning & Development Specialist II.Lead.,14346,74,61,113845,90121,23724,20.84
+LMS Administrator II..,20849,78,8,87300,57351,29949,34.31
+LMS Administrator II..,6951,78,92,117344,97471,19873,16.94
+LMS Administrator.Senior Lead.,10107,78,75,171423,135581,35842,20.91
+Logistics Analyst.Lead.,5543,110,120,120608,104611,15997,13.26
+Logistics Analyst.Lead.,9828,109,77,129348,96214,33134,25.62
+Logistics Specialist..,18103,109,37,73083,67203,5880,8.05
+Logistics Specialist.Senior.,7002,110,98,92174,84207,7967,8.64
+Logistics Specialist.Senior.,8884,110,84,99142,78020,21122,21.3
+Manager..Account Management,4033,16,151,187782,133922,53860,28.68
+Manager..Account Management,5591,40,119,199215,122118,77097,38.7
+Manager..Account Management,5095,15,126,191767,122343,69424,36.2
+Manager..Account Management,4693,15,30,224094,171345,52749,23.54
+Manager..Account Management,5349,15,121,227938,169720,58218,25.54
+Manager..Account Management,8392,15,87,213322,154936,58386,27.37
+Manager..Account Management,19673,15,30,227176,220778,6398,2.82
+Manager..Booking Operations,4778,55,134,185000,131235,53765,29.06
+Manager..Business Operations,8033,84,89,236048,159406,76642,32.47
+Manager..Collections,14354,52,61,220528,181240,39288,17.82
+Manager..Collections,5005,52,128,176006,134417,41589,23.63
+Manager..Contract Management,6426,52,106,173948,108877,65071,37.41
+Manager..Contract Management,6048,52,112,162978,129296,33682,20.67
+Manager..Contract Management,6125,52,110,185718,119699,66019,35.55
+Manager..ECG,7685,141,93,285436,205694,79742,27.94
+Manager..Engineering,10837,106,71,367155,202982,164173,44.71
+Manager..Engineering,9374,82,79,298537,159789,138748,46.48
+Manager..Engineering,8995,96,83,375290,210133,165157,44.01
+Manager..Engineering,4886,113,132,269696,199135,70561,26.16
+Manager..Engineering,10870,34,71,271871,163294,108577,39.94
+Manager..Engineering,9793,63,77,320957,204378,116579,36.32
+Manager..Engineering,19062,28,33,286415,176917,109498,38.23
+Manager..Engineering,9727,37,78,312440,213186,99254,31.77
+Manager..Engineering,16710,42,45,358422,192551,165871,46.28
+Manager..Engineering,4165,93,148,335481,214440,121041,36.08
+Manager..Engineering,15490,102,54,380720,207185,173535,45.58
+Manager..Engineering,11442,93,68,352286,159536,192750,54.71
+Manager..Engineering,9079,37,82,326866,217549,109317,33.44
+Manager..Engineering,9846,43,77,247721,169930,77791,31.4
+Manager..Engineering,4203,34,147,226729,136859,89870,39.64
+Manager..Engineering,6400,34,106,285798,121640,164158,57.44
+Manager..Engineering,5756,104,117,420806,218794,202012,48.01
+Manager..Engineering,10031,63,75,318763,186976,131787,41.34
+Manager..Engineering,6480,93,105,308426,199928,108498,35.18
+Manager..Engineering,20167,82,26,353531,196518,157013,44.41
+Manager..Engineering,20335,43,25,272,272,0,0
+Manager..Engineering,15790,106,50,335684,172302,163382,48.67
+Manager..Engineering,11946,104,65,332960,229903,103057,30.95
+Manager..Engineering,7905,76,91,307862,173105,134757,43.77
+Manager..Engineering,8025,34,90,279287,160671,118616,42.47
+Manager..Engineering,16917,151,44,351616,232694,118922,33.82
+Manager..Engineering,22396,45,10,358000,48700,309300,86.4
+Manager..Engineering,20666,104,23,289219,122109,167110,57.78
+Manager..Engineering,5606,122,12,401881,275262,126619,31.51
+Manager..Enterprise Security Operations,9001,44,83,192152,147445,44707,23.27
+Manager..Finance,7446,55,95,236271,144135,92136,39
+Manager..Finance,4760,147,134,186510,138055,48455,25.98
+Manager..HR Operations,5699,73,118,219469,115087,104382,47.56
+Manager..Network Administration,21720,46,14,273733,197619,76114,27.81
+Manager..Network Design,4757,112,84,296066,224995,71071,24.01
+Manager..Network Infrastructure,19160,109,33,196477,151417,45060,22.93
+Manager..Network Infrastructure,7418,109,95,211248,162654,48594,23
+Manager..Online Properties,5521,85,120,297612,178894,118718,39.89
+Manager..Order Management,4359,52,144,167265,118021,49244,29.44
+Manager..Payroll,2924,50,178,235767,102344,133423,56.59
+Manager..Platform Operations,2944,118,173,254923,133188,121735,47.75
+Manager..Platform Operations,3357,118,164,280266,65184,215082,76.74
+Manager..Platform Operations,7320,118,95,280767,157189,123578,44.01
+Manager..Product Operations,6334,77,107,235975,156820,79155,33.54
+Manager..Program Management Technical,18915,115,16,360603,252664,107939,29.93
+Manager..Program Management Technical,10290,121,74,379039,197248,181791,47.96
+Manager..Q/A Engineering,9904,76,76,268334,173744,94590,35.25
+Manager..Q/A Engineering,8633,76,85,228221,139316,88905,38.96
+Manager..Q/A Engineering,19021,42,33,318362,183254,135108,42.44
+Manager..Q/A Engineering,5976,76,113,248050,92883,155167,62.55
+Manager..Q/A Engineering,9886,76,68,214243,157102,57141,26.67
+Manager..Reliability Engineering,3989,134,147,361699,153403,208296,57.59
+Manager..Reliability Engineering,5759,122,28,304702,172062,132640,43.53
+Manager..Sales Operations,4585,60,86,274588,136379,138209,50.33
+Manager..Sales Operations,6380,148,106,213085,141973,71112,33.37
+Manager..Service Line,11742,142,66,301858,116339,185519,61.46
+Manager..Service Line,8090,23,89,280565,203764,76801,27.37
+Manager..Software Development Engineer in Test,22397,106,10,302467,173773,128694,42.55
+Manager..Software Development Engineer in Test,17184,151,41,271099,198345,72754,26.84
+Manager..Software Development Engineer in Test,4086,101,150,261530,156717,104813,40.08
+Manager..Software Development Engineer in Test,8222,131,88,330929,144458,186471,56.35
+Manager..Software Development Engineer in Test,5728,39,117,313945,227415,86530,27.56
+Manager..Software Development Engineer in Test,5545,93,120,285235,154610,130625,45.8
+Manager..Software Development Engineer in Test,8693,39,85,272643,156031,116612,42.77
+Manager..Software Development Engineer in Test,20099,82,26,296629,170807,125822,42.42
+Manager..Software Development Engineer in Test,5909,76,115,332102,254269,77833,23.44
+Manager..Solutions Engineering,5194,95,35,346144,216340,129804,37.5
+Manager..System Operations,17716,105,39,261918,163801,98117,37.46
+Manager..System Operations,3272,42,162,313899,179732,134167,42.74
+Manager..Systems Engineering,6558,63,104,229981,147152,82829,36.02
+Manager..Technical Support,20543,11,23,268375,202519,65856,24.54
+Manager..Technical Support,21379,11,18,257675,197133,60542,23.5
+Manager..Technical Support,20544,11,23,216529,85465,131064,60.53
+Manager..Technical Support,4607,11,139,270000,161478,108522,40.19
+Manager..Technical Support,5048,11,127,262776,190622,72154,27.46
+Manager..Technical Support,5322,11,122,335839,204586,131253,39.08
+Manager..Technical Support,10538,11,73,265483,174604,90879,34.23
+Manager..Technical Support,4388,11,144,363462,211558,151904,41.79
+Manager..Technical Support,16142,11,49,212460,164265,48195,22.68
+Manager..Technical Support,4158,11,148,254925,198128,56797,22.28
+Manager..Technical Support,5134,11,125,373194,246229,126965,34.02
+Manager..Technical Support,18265,11,37,236908,176675,60233,25.42
+Manager..Training,17769,41,39,221908,168868,53040,23.9
+Manager..Travel and Vendor Management,2809,58,190,202191,150163,52028,25.73
+Manager.Senior.Account Management,8432,15,86,243478,154136,89342,36.69
+Manager.Senior.Account Management,3976,15,153,279717,160338,119379,42.68
+Manager.Senior.Account Management,4212,16,147,285580,190363,95217,33.34
+Manager.Senior.Business Applications,7416,43,95,316053,205084,110969,35.11
+Manager.Senior.Business Operations,2930,57,177,332122,237209,94913,28.58
+Manager.Senior.Compensation and Benefits,7260,72,96,465851,102285,363566,78.04
+Manager.Senior.Digital Properties,9293,86,80,348884,255312,93572,26.82
+Manager.Senior.ECG,6238,140,108,312856,228439,84417,26.98
+Manager.Senior.ECG,4039,140,86,895496,587612,307884,34.38
+Manager.Senior.Engineering,14723,49,59,456840,311371,145469,31.84
+Manager.Senior.Engineering,4069,122,150,454997,251491,203506,44.73
+Manager.Senior.Engineering,11945,104,65,480371,237408,242963,50.58
+Manager.Senior.Engineering,16628,34,46,400970,204436,196534,49.01
+Manager.Senior.Engineering,7772,34,92,462384,325137,137247,29.68
+Manager.Senior.Engineering,22804,63,8,445267,304367,140900,31.64
+Manager.Senior.Engineering,4961,117,130,480000,339209,140791,29.33
+Manager.Senior.Engineering,2824,93,190,494391,249024,245367,49.63
+Manager.Senior.Engineering,4270,43,146,412864,223347,189517,45.9
+Manager.Senior.Engineering,4463,4,40,417718,227169,190549,45.62
+Manager.Senior.Engineering,8823,43,84,371471,242874,128597,34.62
+Manager.Senior.Engineering,18221,151,37,444751,305193,139558,31.38
+Manager.Senior.Engineering,5571,43,120,361763,254289,107474,29.71
+Manager.Senior.Engineering,4842,102,133,476046,204208,271838,57.1
+Manager.Senior.Engineering,5803,43,117,363386,239556,123830,34.08
+Manager.Senior.Facilities Operations,18975,59,34,333490,234720,98770,29.62
+Manager.Senior.Financial Operations,22785,52,8,252348,212151,40197,15.93
+Manager.Senior.Financial Operations,4032,52,151,269344,195450,73894,27.43
+Manager.Senior.Financial Operations,4941,52,130,226697,155171,71526,31.55
+Manager.Senior.IT Help Desk Services,22010,46,13,279207,183450,95757,34.3
+Manager.Senior.Learning & Development,14428,74,61,364113,210096,154017,42.3
+Manager.Senior.Learning Solutions,21565,78,16,298103,212951,85152,28.56
+Manager.Senior.Marketing,7794,143,31,351403,246925,104478,29.73
+Manager.Senior.Network Delivery Architect,4403,111,144,330280,242307,87973,26.64
+Manager.Senior.Network Service Management,3361,109,164,400372,276142,124230,31.03
+Manager.Senior.Performance Engineering,3273,120,167,499278,233017,266261,53.33
+Manager.Senior.Platform Operations,2823,61,190,377442,206905,170537,45.18
+Manager.Senior.Product Operations,15003,77,57,354904,205971,148933,41.96
+Manager.Senior.Product Operations,7529,77,94,321718,158293,163425,50.8
+Manager.Senior.Q/A Engineering,4773,76,131,360394,258376,102018,28.31
+Manager.Senior.Q/A Engineering,7696,76,93,355671,299538,56133,15.78
+Manager.Senior.Recruiting,18544,133,36,321993,179721,142272,44.18
+Manager.Senior.Sales Operations,4991,148,129,261848,169118,92730,35.41
+Manager.Senior.Sales Operations,7024,98,98,319849,222368,97481,30.48
+Manager.Senior.Service Line,14394,23,61,362186,251266,110920,30.63
+Manager.Senior.Service Line,4680,27,136,344397,242602,101795,29.56
+Manager.Senior.Software Development Engineer in Test,18668,93,35,408674,202960,205714,50.34
+Manager.Senior.Software Development Engineer in Test,10007,101,76,370368,215202,155166,41.9
+Manager.Senior.Software Development Engineer in Test,17902,104,38,341364,193074,148290,43.44
+Manager.Senior.Solutions Engineering,7220,144,96,362033,210456,151577,41.87
+Manager.Senior.Systems Administration,17136,46,42,369758,261185,108573,29.36
+Manager.Senior.Systems Support,5784,76,117,339332,145298,194034,57.18
+Manager.Senior.Talent Sourcing and Research,4646,133,120,337517,190626,146891,43.52
+Manager.Senior.Technical Enablement,18976,136,34,495905,319649,176256,35.54
+Manager.Senior.Technical Support,4748,11,135,383403,273468,109935,28.67
+Manager.Senior.Technical Support,3434,11,160,341201,166345,174856,51.25
+Manager.Senior.Technical Support,6549,11,104,499907,271033,228874,45.78
+Manager.Senior.Technical Support,12151,11,63,477168,282086,195082,40.88
+Marketing Automation Specialist.Senior.,5676,84,105,102970,89227,13743,13.35
+Marketing Automation Specialist.Senior.,10972,84,70,136232,111731,24501,17.98
+Marketing Manager.Senior.,7195,94,31,296308,167577,128731,43.44
+Marketing Program Manager..,7857,30,91,199835,151168,48667,24.35
+Marketing Program Specialist..,10888,29,37,105609,80703,24906,23.58
+Marketing Program Specialist..,9470,94,70,105661,72321,33340,31.55
+Marketing Program Specialist.Senior.,20916,143,10,163222,136475,26747,16.39
+Marketing Program Specialist.Senior.,5690,139,118,143604,98971,44633,31.08
+Media Operations Engineer II..,18809,5,34,142846,122166,20680,14.48
+Media Operations Engineer..,20604,6,23,88602,79965,8637,9.75
+Media Operations Engineer..,20031,6,27,122712,104517,18195,14.83
+Media Operations Engineer..,20573,6,23,100399,88950,11449,11.4
+Media Operations Engineer..,20790,6,22,119193,85793,33400,28.02
+Media Operations Engineer..,18640,5,35,87090,74587,12503,14.36
+Media Operations Engineer..,20887,6,21,114993,96581,18412,16.01
+Media Operations Engineer..,20638,6,23,115117,102323,12794,11.11
+Media Operations Engineer..,20817,6,22,149697,122333,27364,18.28
+Media Operations Engineer..,20814,6,22,99846,83647,16199,16.22
+Media Operations Engineer..,20383,6,24,102843,85770,17073,16.6
+Media Operations Engineer..,18654,5,35,96376,84520,11856,12.3
+Media Operations Engineer..,20636,6,23,110000,83870,26130,23.75
+Media Operations Engineer.Associate.,20650,6,23,107528,91486,16042,14.92
+Media Operations Engineer.Associate.,22637,6,9,85988,80178,5810,6.76
+Media Operations Engineer.Associate.,20452,6,24,67875,61425,6450,9.5
+Media Operations Engineer.Associate.,20815,6,22,73679,66826,6853,9.3
+Media Operations Engineer.Associate.,20693,6,22,102213,84763,17450,17.07
+Media Operations Engineer.Associate.,23049,7,6,44375,41881,2494,5.62
+Media Operations Engineer.Associate.,22145,6,12,83615,66069,17546,20.98
+Media Operations Engineer.Associate.,21768,6,14,84566,74134,10432,12.34
+Media Operations Engineer.Associate.,20690,6,22,91317,78741,12576,13.77
+Media Operations Engineer.Associate.,20832,6,21,78613,69288,9325,11.86
+Media Operations Engineer.Associate.,23032,7,6,60723,57179,3544,5.84
+Media Operations Engineer.Associate.,20686,6,22,98679,84416,14263,14.45
+Media Operations Engineer.Associate.,23053,7,6,44375,41819,2556,5.76
+Media Operations Engineer.Associate.,23036,7,6,60723,56966,3757,6.19
+Media Operations Engineer.Associate.,23033,7,6,60723,57216,3507,5.78
+Media Operations Engineer.Senior.,16456,6,47,196790,145809,50981,25.91
+Network Account Manager..,22219,109,11,222167,118203,103964,46.8
+Network Administrator II..,23062,46,6,71395,67727,3668,5.14
+Network Administrator II..,22551,46,9,114591,90503,24088,21.02
+Network Administrator..,22956,46,6,242948,236250,6698,2.76
+Network Administrator..,21647,46,15,94555,79797,14758,15.61
+Network Administrator..,22708,46,8,77795,70953,6842,8.79
+Network Delivery Architect II..,14036,111,62,159893,122883,37010,23.15
+Network Delivery Architect II..,16591,111,46,184360,127873,56487,30.64
+Network Delivery Architect II..,4909,111,131,178881,111797,67084,37.5
+Network Delivery Architect.Senior.,7583,111,94,197793,150492,47301,23.91
+Network Design Engineer II..,8784,112,84,146418,96723,49695,33.94
+Network Design Engineer..,11469,112,68,133350,109277,24073,18.05
+Network Engagement Consultant II..,14531,109,60,111078,91333,19745,17.78
+Network Engagement Consultant..,22032,110,12,76367,67430,8937,11.7
+Network Engagement Consultant..,19044,110,33,71371,65741,5630,7.89
+Network Engagement Consultant..,21851,110,13,76367,66594,9773,12.8
+Network Engagement Consultant..,21980,110,13,79367,73046,6321,7.96
+Network Engagement Consultant..,19086,109,33,81323,72189,9134,11.23
+Network Engagement Consultant..,19485,109,32,78797,69042,9755,12.38
+Network Engineer II..,19860,114,29,164276,108105,56171,34.19
+Network Engineer..,19435,46,32,136342,111772,24570,18.02
+Network Engineer..,14917,114,58,132039,70687,61352,46.47
+Network Engineer..,8585,46,58,151258,114336,36922,24.41
+Network Engineer.Senior Lead.,4202,114,147,222111,121763,100348,45.18
+Network Engineer.Senior Lead.,4512,114,141,235743,154732,81011,34.36
+Network Engineer.Senior.,11997,114,53,221828,109774,112054,50.51
+Network Implementation Manager Ii..,9827,109,77,112556,80972,31584,28.06
+Network Implementation Manager II.Lead.,14344,109,61,139103,118632,20471,14.72
+Network Implementation Manager..,20734,109,22,114075,73512,40563,35.56
+Network Implementation Manager..,20491,109,24,86903,77925,8978,10.33
+Network Implementation Manager..,21177,109,14,104185,93549,10636,10.21
+Network Implementation Manager..,18886,110,34,98433,88108,10325,10.49
+Network Implementation Manager..,18882,110,34,98433,84540,13893,14.11
+Network Implementation Manager..,16289,109,48,85895,68996,16899,19.67
+Network Infrastructure Engineer II..,16437,109,48,155091,127739,27352,17.64
+Network Infrastructure Engineer II..,11026,110,70,147997,113186,34811,23.52
+Network Infrastructure Engineer II..,8322,110,87,142024,113974,28050,19.75
+Network Infrastructure Engineer II..,15293,110,56,155594,106515,49079,31.54
+Network Infrastructure Engineer..,11876,110,59,96071,80953,15118,15.74
+Network Infrastructure Engineer..,18321,109,37,112974,95817,17157,15.19
+Network Infrastructure Engineer..,16330,110,48,96200,75713,20487,21.3
+Network Infrastructure Engineer..,16361,109,15,111100,88079,23021,20.72
+Network Infrastructure Engineer..,22308,110,11,93250,81960,11290,12.11
+Network Infrastructure Engineer..,16340,110,48,85115,75568,9547,11.22
+Network Infrastructure Engineer..,22115,109,12,97613,84966,12647,12.96
+Network Infrastructure Engineer..,16338,110,48,85045,72443,12602,14.82
+Network Infrastructure Engineer..,16140,109,49,109711,83352,26359,24.03
+Network Infrastructure Engineer..,16400,109,48,93517,77920,15597,16.68
+Network Infrastructure Engineer..,19017,109,33,104615,92844,11771,11.25
+Network Infrastructure Engineer..,22218,110,11,90250,84900,5350,5.93
+Network Infrastructure Engineer..,19157,109,33,84693,78245,6448,7.61
+Network Infrastructure Engineer..,16335,110,48,93250,81242,12008,12.88
+Network Infrastructure Engineer..,22362,109,10,97613,91043,6570,6.73
+Network Infrastructure Engineer..,16328,109,48,99354,91743,7611,7.66
+Network Infrastructure Engineer.Senior Lead.,6596,110,103,190359,150516,39843,20.93
+Network Support Consultant..,16049,109,49,147990,105074,42916,29
+Office Manager..,8881,59,80,106725,90046,16679,15.63
+Order Analyst II..,19359,52,32,79301,68986,10315,13.01
+Order Analyst II..,12022,52,64,89757,76066,13691,15.25
+Order Analyst II..,19488,52,32,80805,70903,9902,12.25
+Order Analyst II..,19008,52,34,85755,74051,11704,13.65
+Order Analyst II..,10703,52,50,77612,69026,8586,11.06
+Order Analyst II..,14254,52,61,87351,78442,8909,10.2
+Order Analyst II..,14681,52,59,86779,74577,12202,14.06
+Order Analyst..,19790,52,29,114641,114441,200,0.17
+Order Analyst..,19702,52,30,52045,26845,25200,48.42
+Order Analyst..,20148,52,26,87122,77333,9789,11.24
+Order Analyst.Senior Lead.,7642,52,93,119158,87972,31186,26.17
+Order Analyst.Senior Lead.,7266,52,96,111504,90637,20867,18.71
+Order Analyst.Senior Lead.,7643,52,93,122480,85750,36730,29.99
+Order Analyst.Senior.,12058,52,64,112973,98881,14092,12.47
+Order Analyst.Senior.,14255,52,61,103009,71759,31250,30.34
+Order Analyst.Senior.,10707,52,72,115594,80514,35080,30.35
+Order Analyst.Senior.,10705,52,72,111947,78111,33836,30.23
+Order Analyst.Senior.,14686,52,59,111208,97072,14136,12.71
+Order Analyst.Senior.,10708,52,72,108067,93662,14405,13.33
+Order Management Supervisor..,7235,52,96,160832,141744,19088,11.87
+Partner Enablement Manager.Senior.,8792,118,84,131898,116827,15071,11.43
+Partner Enablement Manager.Senior.,9092,17,82,244879,170719,74160,30.28
+Partner Services Manager..,19627,15,31,96309,84380,11929,12.39
+Partner Services Manager.Senior.,4761,15,134,134208,93766,40442,30.13
+Partner Services Manager.Senior.,15482,15,54,141472,115151,26321,18.61
+Partner Services Manager.Senior.,10438,15,64,116839,88144,28695,24.56
+Payroll Analyst..,19740,50,30,79168,71525,7643,9.65
+Payroll Analyst.Senior.,8197,50,88,110761,88645,22116,19.97
+Performance Engineer II..,7711,120,92,178533,106632,71901,40.27
+Performance Engineer II..,9147,120,81,152149,119674,32475,21.34
+Performance Engineer II..,10650,120,72,135984,111452,24532,18.04
+Performance Engineer..,21359,120,12,84300,62861,21439,25.43
+Performance Engineer.Senior II Lead.,4772,120,134,214853,111695,103158,48.01
+Performance Engineer.Senior II Lead.,4127,120,149,105189,20054,85135,80.94
+Performance Engineer.Senior II.,16587,120,46,286920,144319,142601,49.7
+Performance Engineer.Senior II.,15859,134,50,335149,170166,164983,49.23
+Performance Engineer.Senior II.,6276,120,108,244157,146573,97584,39.97
+Performance Engineer.Senior II.,2830,134,190,290207,139590,150617,51.9
+Performance Engineer.Senior.,8516,120,86,150889,98775,52114,34.54
+Performance Engineer.Senior.,14371,134,61,197290,145619,51671,26.19
+Platform Operations Engineer II..,12386,118,50,138272,115606,22666,16.39
+Platform Operations Engineer II..,14774,119,57,198587,135401,63186,31.82
+Platform Operations Engineer II..,16318,118,48,122200,105851,16349,13.38
+Platform Operations Engineer II..,15299,118,56,110088,107543,2545,2.31
+Platform Operations Engineer II..,11232,118,50,134925,118216,16709,12.38
+Platform Operations Engineer II..,15369,118,55,133337,103744,29593,22.19
+Platform Operations Engineer II..,10934,118,59,141061,106458,34603,24.53
+Platform Operations Engineer II..,15818,118,50,185693,119114,66579,35.85
+Platform Operations Engineer II..,15856,118,50,113309,94470,18839,16.63
+Platform Operations Engineer II..,12418,118,59,127834,109312,18522,14.49
+Platform Operations Engineer II..,3753,118,154,163092,102803,60289,36.97
+Platform Operations Engineer II..,15386,119,35,194091,131494,62597,32.25
+Platform Operations Engineer II..,16332,119,48,184068,136146,47922,26.03
+Platform Operations Engineer II.Lead.,12100,118,64,157394,120915,36479,23.18
+Platform Operations Engineer II.Lead.,9857,119,71,190127,148974,41153,21.65
+Platform Operations Engineer II.Lead.,17085,118,42,142941,96064,46877,32.79
+Platform Operations Engineer..,22247,118,11,112454,95093,17361,15.44
+Platform Operations Engineer..,22187,118,12,97067,88797,8270,8.52
+Platform Operations Engineer..,21814,118,14,106272,88261,18011,16.95
+Platform Operations Engineer..,22792,118,8,101334,94324,7010,6.92
+Platform Operations Engineer..,14776,118,41,92904,88013,4891,5.26
+Platform Operations Engineer..,22808,118,8,97094,90171,6923,7.13
+Platform Operations Engineer..,22178,118,12,109466,96638,12828,11.72
+Platform Operations Engineer..,16352,118,48,93071,61431,31640,34
+Platform Operations Engineer..,22907,118,7,88267,82717,5550,6.29
+Platform Operations Engineer..,22614,118,9,114349,108539,5810,5.08
+Platform Operations Engineer..,17241,118,33,99771,90035,9736,9.76
+Platform Operations Engineer..,16861,118,27,112235,96393,15842,14.12
+Platform Operations Engineer..,22793,118,8,95094,88199,6895,7.25
+Platform Operations Engineer..,22278,118,11,114971,93247,21724,18.9
+Platform Operations Engineer..,21583,118,15,105254,88431,16823,15.98
+Platform Operations Engineer..,16779,118,21,129886,113287,16599,12.78
+Platform Operations Engineer..,14726,118,59,125930,96887,29043,23.06
+Platform Operations Engineer..,21809,118,14,99472,87371,12101,12.17
+Platform Operations Engineer.Associate.,22030,118,12,85642,70863,14779,17.26
+Platform Operations Engineer.Associate.,18378,118,11,84566,78703,5863,6.93
+Platform Operations Engineer.Associate.,16787,118,9,93980,89617,4363,4.64
+Platform Operations Engineer.Associate.,20054,118,15,86148,80330,5818,6.75
+Platform Operations Engineer.Associate.,21115,118,6,44375,41431,2944,6.63
+Platform Operations Engineer.Associate.,22681,118,9,77332,57160,20172,26.08
+Platform Operations Engineer.Associate.,20196,118,12,256,256,0,0
+Platform Operations Engineer.Associate.,22651,118,6,44375,39029,5346,12.05
+Platform Operations Engineer.Associate.,20058,118,6,44375,40164,4211,9.49
+Platform Operations Engineer.Associate.,20852,118,6,44375,39939,4436,10
+Platform Operations Engineer.Associate.,18578,118,12,105842,91099,14743,13.93
+Platform Operations Engineer.Associate.,22163,118,10,103039,98736,4303,4.18
+Platform Operations Engineer.Associate.,22548,118,9,85048,79985,5063,5.95
+Platform Operations Engineer.Associate.,18087,118,15,104655,88191,16464,15.73
+Platform Operations Engineer.Associate.,17928,118,11,101248,88868,12380,12.23
+Platform Operations Engineer.Associate.,19173,118,12,94032,75769,18263,19.42
+Platform Operations Engineer.Associate.,22789,118,8,80132,75494,4638,5.79
+Platform Operations Engineer.Associate.,20055,118,8,82263,77705,4558,5.54
+Platform Operations Engineer.Associate.,22043,118,6,44375,39976,4399,9.91
+Platform Operations Engineer.Associate.,19944,118,6,44375,39971,4404,9.92
+Platform Operations Engineer.Associate.,20955,118,9,106855,87083,19772,18.5
+Platform Operations Engineer.Senior Lead.,4410,118,37,201104,123187,77917,38.74
+Platform Operations Engineer.Senior Lead.,7447,118,95,166870,100183,66687,39.96
+Platform Operations Engineer.Senior.,7860,118,79,203252,127909,75343,37.07
+Platform Operations Engineer.Senior.,9860,118,71,156145,98465,57680,36.94
+Platform Operations Engineer.Senior.,14215,118,62,200475,102462,98013,48.89
+Platform Operations Engineer.Senior.,8381,118,74,172798,118097,54701,31.66
+Platform Operations Engineer.Senior.,11933,118,65,183928,91971,91957,50
+Practice Manager..,6471,68,105,286230,162553,123677,43.21
+Practice Manager..,6563,68,103,240793,190373,50420,20.94
+Practice Manager..,15348,26,55,350351,252120,98231,28.04
+Practice Manager..,11143,26,70,326066,219719,106347,32.62
+Practice Manager..,12217,68,63,273394,143696,129698,47.44
+Practice Manager..,3796,68,158,314797,185621,129176,41.03
+Practice Manager..,19117,68,33,264479,170723,93756,35.45
+Practice Manager..,17130,68,42,255976,173659,82317,32.16
+Practice Manager.Senior.,4782,68,134,300785,214291,86494,28.76
+Practice Manager.Senior.,6841,68,101,296365,212362,84003,28.34
+Practice Manager.Senior.,6987,65,99,258233,188536,69697,26.99
+Practice Manager.Senior.,5835,26,64,422922,227394,195528,46.23
+Practice Manager.Senior.,5102,68,78,374912,262845,112067,29.89
+Practice Manager.Senior.,9200,68,81,338582,239662,98920,29.22
+Process & Quality Engineer..,22620,118,9,72400,66720,5680,7.85
+Process & Quality Engineer.Senior Lead.,4694,118,136,196891,130912,65979,33.51
+Product Architect..,15094,63,57,287006,186896,100110,34.88
+Product Architect..,18808,82,34,264179,195606,68573,25.96
+Product Manager.Senior.,12372,77,62,340533,185036,155497,45.66
+Product Manager.Senior.,23037,48,6,333194,316062,17132,5.14
+Product Manager.Senior.,20701,135,22,484858,207203,277655,57.27
+Product Manager.Senior.,19958,83,28,381274,216242,165032,43.28
+Product Manager.Senior.,8182,123,88,382988,274736,108252,28.27
+Product Marketing Manager..,6965,103,33,266268,180541,85727,32.2
+Product Marketing Specialist.Associate.,12355,150,47,79799,68930,10869,13.62
+Product Operations Analyst II..,10515,77,67,117331,86702,30629,26.1
+Product Operations Analyst II..,11235,77,53,116460,99820,16640,14.29
+Product Operations Analyst II..,8744,77,84,109816,98060,11756,10.71
+Product Operations Analyst II..,18773,77,35,110619,87803,22816,20.63
+Product Operations Analyst II..,17703,77,39,114942,97405,17537,15.26
+Product Operations Analyst II..,17273,77,41,109312,77715,31597,28.91
+Product Operations Analyst II..,11464,77,53,108966,83741,25225,23.15
+Product Operations Analyst..,18627,77,35,71235,66103,5132,7.2
+Product Operations Analyst..,18616,153,35,67250,63311,3939,5.86
+Product Operations Analyst..,19836,77,29,61959,57697,4262,6.88
+Product Operations Analyst..,20379,77,17,57287,50467,6820,11.9
+Product Operations Analyst.Associate.,20791,77,22,50355,45679,4676,9.29
+Product Operations Analyst.Associate.,19575,77,7,74922,71494,3428,4.58
+Product Operations Analyst.Associate.,20689,77,22,50355,34721,15634,31.05
+Product Operations Analyst.Associate.,20691,77,22,50355,47029,3326,6.61
+Product Operations Analyst.Associate.,20805,77,22,55446,52213,3233,5.83
+Product Operations Analyst.Senior.,14924,77,58,160893,108051,52842,32.84
+Product Operations Analyst.Senior.,14299,153,61,170314,125631,44683,26.24
+Product Operations Analyst.Senior.,20665,77,23,152834,125118,27716,18.13
+Product Support Engineer..,15125,12,57,246201,165448,80753,32.8
+Product Support Engineer..,16459,12,47,191881,144402,47479,24.74
+Product Support Engineer..,17641,47,39,185361,139341,46020,24.83
+Product Support Engineer..,10665,12,72,201525,134066,67459,33.47
+Product Support Engineer..,6867,12,87,204496,160944,43552,21.3
+Product Support Engineer..,6860,12,70,251712,147261,104451,41.5
+Product Support Engineer..,12351,12,63,192819,128242,64577,33.49
+Product Support Engineer..,10522,12,73,249442,158897,90545,36.3
+Product Support Engineer.Senior Lead.,21156,47,19,310220,230594,79626,25.67
+Product Support Engineer.Senior Lead.,17107,105,42,292561,172413,120148,41.07
+Product Support Engineer.Senior.,8816,12,84,255217,155771,99446,38.97
+Product Support Engineer.Senior.,7309,105,95,241999,148547,93452,38.62
+Product Support Engineer.Senior.,3034,12,173,274189,197691,76498,27.9
+Program Manager II..,7503,154,94,202219,136165,66054,32.66
+Program Manager II..,3914,85,155,189634,155050,34584,18.24
+Program Manager II..,11673,67,10,179083,148286,30797,17.2
+Program Manager II..,19732,57,30,149228,107517,41711,27.95
+Program Manager II..Technical,19832,31,29,168783,115043,53740,31.84
+Program Manager II..Technical,22013,99,13,230273,140034,90239,39.19
+Program Manager II..Technical,18222,115,37,261896,230169,31727,12.11
+Program Manager II..Technical,18764,121,35,192799,155829,36970,19.18
+Program Manager..,12398,57,62,106684,76767,29917,28.04
+Program Manager..,22865,67,7,111591,105427,6164,5.52
+Program Manager..,12162,57,45,84724,60143,24581,29.01
+Program Manager..,10709,4,72,132947,116926,16021,12.05
+Program Manager..,9322,57,68,99284,71278,28006,28.21
+Program Manager..Technical,18635,31,35,159007,126196,32811,20.63
+Program Manager..Technical,16543,61,46,158068,110273,47795,30.24
+Program Manager..Technical,14652,31,48,116053,94590,21463,18.49
+Program Manager..Technical,9198,61,81,129858,109441,20417,15.72
+Program Manager..Technical,19197,128,32,108623,95153,13470,12.4
+Program Manager.Associate.,9276,86,65,72929,55000,17929,24.58
+Program Manager.Principal.Technical,4907,31,131,443054,226020,217034,48.99
+Program Manager.Senior Lead.,3960,35,154,259048,178177,80871,31.22
+Program Manager.Senior Lead.,5612,27,119,215593,142788,72805,33.77
+Program Manager.Senior.,9848,125,11,198049,140603,57446,29.01
+Program Manager.Senior.Technical,8433,31,86,195954,141528,54426,27.77
+Program Manager.Senior.Technical,4979,31,15,286600,146131,140469,49.01
+Program Manager.Senior.Technical,7083,68,97,224635,172350,52285,23.28
+Program Manager.Senior.Technical,10460,80,73,259764,148300,111464,42.91
+Program Manager.Senior.Technical,16500,121,47,290572,134218,156354,53.81
+Program Manager.Senior.Technical,8026,56,90,313460,182272,131188,41.85
+Program Manager.Senior.Technical,17301,63,41,226006,142813,83193,36.81
+Program Manager.Senior.Technical,22220,99,11,279207,143441,135766,48.63
+Program Manager.Senior.Technical,14824,31,59,203980,158462,45518,22.31
+Program Manager.Senior.Technical,22957,111,7,263636,208728,54908,20.83
+Q/A Engineer II..,21441,4,17,103008,91846,11162,10.84
+Q/A Engineer II..,17636,76,39,103601,89627,13974,13.49
+Q/A Engineer II..,14653,63,51,93798,69887,23911,25.49
+Q/A Engineer II..,20605,76,23,109930,85577,24353,22.15
+Q/A Engineer II..,21642,76,15,134162,115875,18287,13.63
+Q/A Engineer II..,17693,76,39,95963,76721,19242,20.05
+Q/A Engineer II..,17937,76,38,88630,79328,9302,10.5
+Q/A Engineer II..,19560,76,31,86609,72146,14463,16.7
+Q/A Engineer II..,22380,76,10,89853,82998,6855,7.63
+Q/A Engineer II..,22217,76,11,114591,100542,14049,12.26
+Q/A Engineer..,21854,76,13,77795,59946,17849,22.94
+Q/A Engineer..,22009,4,13,73121,63951,9170,12.54
+Q/A Engineer..,21666,76,15,73236,50868,22368,30.54
+Q/A Engineer..,22437,76,10,62087,58372,3715,5.98
+Q/A Engineer..,22531,76,10,62087,58807,3280,5.28
+Q/A Engineer.Principal.,16709,42,45,345941,191794,154147,44.56
+Q/A Engineer.Principal.,18462,42,36,400848,341834,59014,14.72
+Q/A Engineer.Senior II Lead.,9826,76,77,178437,103991,74446,41.72
+Q/A Engineer.Senior II Lead.,5096,76,126,181202,124879,56323,31.08
+Q/A Engineer.Senior II Lead.,21686,76,15,261951,174077,87874,33.55
+Q/A Engineer.Senior II.,11440,76,68,167193,126012,41181,24.63
+Q/A Engineer.Senior II.,9942,76,76,207623,163292,44331,21.35
+Q/A Engineer.Senior II.,11623,76,67,179623,112747,66876,37.23
+Q/A Engineer.Senior II.,11947,76,65,212997,142761,70236,32.98
+Q/A Engineer.Senior II.,10343,76,74,174189,117636,56553,32.47
+Q/A Engineer.Senior II.,11538,76,67,164302,123097,41205,25.08
+Q/A Engineer.Senior II.,11045,76,70,183775,117486,66289,36.07
+Q/A Engineer.Senior II.,8894,76,84,203711,169595,34116,16.75
+Q/A Engineer.Senior II.,5713,76,118,205742,159400,46342,22.52
+Q/A Engineer.Senior II.,15827,76,40,203731,120787,82944,40.71
+Q/A Engineer.Senior II.,10897,76,71,184600,151029,33571,18.19
+Q/A Engineer.Senior II.,7506,76,94,201071,154380,46691,23.22
+Q/A Engineer.Senior II.,14169,76,62,224091,137557,86534,38.62
+Q/A Engineer.Senior II.,15457,42,54,250249,155664,94585,37.8
+Q/A Engineer.Senior.,20210,42,25,216288,128241,88047,40.71
+Q/A Engineer.Senior.,19156,76,33,126072,101298,24774,19.65
+Q/A Engineer.Senior.,18999,76,34,121428,85111,36317,29.91
+Q/A Engineer.Senior.,20741,76,14,164761,113420,51341,31.16
+Q/A Engineer.Senior.,11681,76,47,128369,108654,19715,15.36
+Q/A Engineer.Senior.,9847,76,77,132061,95894,36167,27.39
+Q/A Engineer.Senior.,11584,76,47,125306,106244,19062,15.21
+Q/A Engineer.Senior.,14996,76,57,144295,106512,37783,26.18
+Q/A Engineer.Senior.,14943,76,49,123148,86228,36920,29.98
+Q/A Engineer.Senior.,14628,63,60,141451,102834,38617,27.3
+Q/A Engineer.Senior.,11671,63,66,141592,111970,29622,20.92
+Q/A Engineer.Senior.,20359,42,25,196627,117991,78636,39.99
+Q/A Engineer.Senior.,18545,76,36,80111,79911,200,0.25
+Q/A Engineer.Senior.,22846,47,7,202333,124701,77632,38.37
+Q/A Engineer.Senior.,17152,76,42,134657,86868,47789,35.49
+Q/A Engineer.Senior.,21133,47,19,175612,117830,57782,32.9
+Recruiter II..,17781,133,10,104133,93538,10595,10.17
+Recruiter II..,8285,133,63,133034,117095,15939,11.98
+Recruiter II..,9915,133,35,103413,92783,10630,10.28
+Recruiter.Senior Lead.,17417,133,40,209262,155920,53342,25.49
+Recruiter.Senior.,4830,133,35,147241,109019,38222,25.96
+Recruiter.Senior.,12124,133,35,161672,130127,31545,19.51
+Recruiter.Senior.,17187,133,41,169465,135145,34320,20.25
+Relationship Manager II..,20614,141,23,252196,186929,65267,25.88
+Relationship Manager II..,8997,92,83,261735,143259,118476,45.27
+Relationship Manager II..,18584,138,36,244715,144192,100523,41.08
+Relationship Manager II..,10839,92,71,288103,215775,72328,25.1
+Relationship Manager II..,16450,92,47,165800,115949,49851,30.07
+Relationship Manager II..,18923,141,34,200791,83165,117626,58.58
+Relationship Manager II..,8394,138,87,40890,40690,200,0.49
+Relationship Manager..,11840,92,66,187671,141854,45817,24.41
+Relationship Manager..,18634,141,35,250110,153689,96421,38.55
+Relationship Manager..,16773,141,45,141769,116186,25583,18.05
+Relationship Manager..,21058,138,20,210752,156428,54324,25.78
+Relationship Manager..,11625,92,67,158163,121919,36244,22.92
+Relationship Manager.Senior Lead.,3727,141,65,280110,141233,138877,49.58
+Relationship Manager.Senior.,4677,92,136,512007,234883,277124,54.13
+Relationship Manager.Senior.,15329,92,55,243805,176571,67234,27.58
+Relationship Manager.Senior.,20648,141,23,439212,234620,204592,46.58
+Relationship Manager.Senior.,18201,141,37,344731,257657,87074,25.26
+Relationship Manager.Senior.,10786,141,71,941642,660810,280832,29.82
+Relationship Manager.Senior.,11893,141,65,286147,183186,102961,35.98
+Relationship Manager.Senior.,19360,141,32,31906,31706,200,0.63
+Relationship Manager.Senior.,14252,141,61,231946,157395,74551,32.14
+Release Engineer II..,15387,76,43,92211,71462,20749,22.5
+Release Engineer II..,22290,106,11,104133,81589,22544,21.65
+Release Engineer II..,21578,96,16,80333,70535,9798,12.2
+Release Engineer II..,22276,131,11,116033,98991,17042,14.69
+Release Engineer II..,22842,106,7,123000,116727,6273,5.1
+Release Engineer II..,21880,76,13,94867,83385,11482,12.1
+Release Engineer II..,22910,42,7,249200,244000,5200,2.09
+Release Engineer II..,22365,76,10,93185,74356,18829,20.21
+Release Engineer II..,17868,106,38,107500,91188,16312,15.17
+Release Engineer.Senior Lead.,16296,76,48,179855,127203,52652,29.27
+Release Engineer.Senior.,19538,47,31,168744,101429,67315,39.89
+Release Engineer.Senior.,18555,82,36,178588,140531,38057,21.31
+Release Engineer.Senior.,19574,76,31,117700,83173,34527,29.33
+Release Engineer.Senior.,21985,93,13,161219,102329,58890,36.53
+Release Engineer.Senior.,20697,76,22,143617,94465,49152,34.22
+Reliability Engineer.Senior.,16978,134,43,207661,153918,53743,25.88
+Reliability Engineer.Senior.,10671,134,72,188421,118082,70339,37.33
+Reliability Engineer.Senior.,5459,134,121,231778,136058,95720,41.3
+Reliability Engineer.Senior.,18543,134,36,200552,125683,74869,37.33
+Revenue Accountant II..,7107,50,97,110318,57108,53210,48.23
+Revenue Accountant II..,6958,50,99,120247,95663,24584,20.44
+Revenue Accountant..,6406,50,106,91837,81664,10173,11.08
+Revenue Accountant.Senior Lead.,5157,50,125,173876,111580,62296,35.83
+Sales Development Representative..,22016,22,13,95301,83758,11543,12.11
+Sales Development Representative..,20051,22,27,90447,68333,22114,24.45
+Security Analyst.Senior.,17001,44,43,121024,90937,30087,24.86
+Security Analyst.Senior.,16119,44,49,98453,77119,21334,21.67
+Security Operations Center Network Engineer..,14688,26,59,238401,154461,83940,35.21
+Security Operations Center Network Engineer..,18479,26,36,235638,174269,61369,26.04
+Security Operations Center Specialist II..,23025,26,6,123287,116600,6687,5.42
+Security Operations Center Specialist II..,22288,26,11,171988,135074,36914,21.46
+Security Operations Center Specialist II..,20119,26,26,182233,139364,42869,23.52
+Security Operations Center Specialist II..,22446,26,10,191460,148037,43423,22.68
+Security Operations Center Specialist II..,14844,26,58,166491,105382,61109,36.7
+Security Operations Center Specialist II..,22447,26,10,183248,157073,26175,14.28
+Security Operations Center Specialist II..,18337,26,37,2511,2511,0,0
+Security Operations Center Specialist II..,22814,26,8,145680,123341,22339,15.33
+Security Operations Center Specialist II..,17102,26,42,175634,140056,35578,20.26
+Security Operations Center Specialist II..,15001,26,57,198623,122476,76147,38.34
+Security Operations Center Specialist II..,22679,26,9,174588,148671,25917,14.84
+Security Operations Center Specialist II..,16535,26,47,185404,126298,59106,31.88
+Security Operations Center Specialist II..,21664,26,15,172676,113361,59315,34.35
+Security Operations Center Specialist II..,21692,26,15,172634,140228,32406,18.77
+Security Operations Center Specialist..,17176,26,41,156771,126911,29860,19.05
+Security Operations Center Specialist..,20039,26,27,141696,98073,43623,30.79
+Security Operations Center Specialist..,14353,26,61,117429,81596,35833,30.51
+Security Operations Center Specialist..,17317,26,41,154296,94727,59569,38.61
+Security Operations Center Specialist..,21372,26,12,100468,72649,27819,27.69
+Security Operations Center Specialist.Senior II Lead.,11298,26,69,369749,210658,159091,43.03
+Security Operations Center Specialist.Senior II.,16812,26,44,3898,3898,0,0
+Security Operations Center Specialist.Senior II.,11674,26,67,277327,164677,112650,40.62
+Security Operations Center Specialist.Senior.,17402,26,40,251589,186596,64993,25.83
+Security Operations Center Specialist.Senior.,19455,26,32,237532,145105,92427,38.91
+Security Operations Center Specialist.Senior.,8091,26,89,253825,149489,104336,41.11
+Security Operations Center Specialist.Senior.,19177,26,33,234177,174917,59260,25.31
+Security Operations Center Specialist.Senior.,18708,26,35,227907,135377,92530,40.6
+Security Operations Center Specialist.Senior.,14882,26,29,312273,198888,113385,36.31
+Security Operations Center Specialist.Senior.,14687,26,59,231028,150024,81004,35.06
+Security Operations Center Specialist.Senior.,15004,25,57,215817,125912,89905,41.66
+Security Operations Center Specialist.Senior.,17975,26,38,216316,109307,107009,49.47
+Security Operations Center Specialist.Senior.,18360,26,36,201387,149117,52270,25.96
+Security Operations Technician II..,16914,26,44,109721,95008,14713,13.41
+Security Operations Technician II..,19888,26,28,90468,71686,18782,20.76
+Security Operations Technician II..,14352,26,61,90368,85621,4747,5.25
+Security Operations Technician II..,17638,26,39,93015,79319,13696,14.72
+Security Operations Technician II..,21494,26,17,99568,70743,28825,28.95
+Security Operations Technician..,22307,26,11,65967,61568,4399,6.67
+Security Operations Technician.Senior.,21475,26,17,111725,96159,15566,13.93
+Security Operations Technician.Senior.,17939,26,38,100524,86536,13988,13.92
+Security Operations Technician.Senior.,20406,26,24,118070,81860,36210,30.67
+Security Operations Technician.Senior.,17208,26,41,102958,74423,28535,27.72
+Security Operations Technician.Senior.,14350,26,61,103053,72627,30426,29.52
+Security Operations Technician.Senior.,20030,26,27,107048,93611,13437,12.55
+Server Tech Services Engineer II..,16487,109,47,92093,78888,13205,14.34
+Server Tech Services Engineer II.Lead.,22571,109,9,133725,116978,16747,12.52
+Server Tech Services Engineer II.Lead.,15610,110,52,114375,80014,34361,30.04
+Server Tech Services Engineer..,22730,110,8,70417,65607,4810,6.83
+Server Tech Services Engineer..,22606,110,9,70417,65229,5188,7.37
+Server Tech Services Engineer..,21819,109,14,77383,67324,10059,13
+Server Tech Services Engineer..,17060,109,42,63789,60716,3073,4.82
+Server Tech Services Engineer..,19020,109,33,82682,74885,7797,9.43
+Service Architect II..,16141,69,49,207867,154735,53132,25.56
+Services Analyst II..,18339,129,37,107930,85109,22821,21.14
+Services Analyst II..,18472,129,36,113284,79379,33905,29.93
+Services Analyst II..,22450,129,10,136725,97155,39570,28.94
+Services Analyst.Principal.,5942,129,114,267435,150435,117000,43.75
+Services Analyst.Senior.,10879,129,71,157291,121792,35499,22.57
+Shift Manager..Platform Operations,11994,118,64,175323,129642,45681,26.06
+Shift Manager..Platform Operations,8612,118,85,235241,149836,85405,36.31
+Shift Manager..Platform Operations,11755,118,66,216467,137378,79089,36.54
+Shift Manager..Platform Operations,3395,118,164,172376,112282,60094,34.86
+Shift Manager..Platform Operations,11931,118,65,212520,138866,73654,34.66
+Shift Manager..Platform Operations,5794,118,117,307342,230710,76632,24.93
+Site Reliability Engineer II..,19051,82,33,133636,105859,27777,20.79
+Site Reliability Engineer..,16557,82,46,93871,80219,13652,14.54
+Site Reliability Engineer.Senior II.,10971,82,24,317410,225700,91710,28.89
+Site Reliability Engineer.Senior II.,20427,122,24,264418,201795,62623,23.68
+Site Reliability Engineer.Senior.,22456,122,10,197364,162943,34421,17.44
+Site Reliability Engineer.Senior.,22901,122,7,258917,218882,40035,15.46
+Software Development Engineer in Test II..,19940,93,28,79689,70912,8777,11.01
+Software Development Engineer in Test II..,14351,39,61,100521,70567,29954,29.8
+Software Development Engineer in Test II..,19663,101,30,89696,74162,15534,17.32
+Software Development Engineer in Test II..,22216,45,11,123887,106337,17550,14.17
+Software Development Engineer in Test II..,18959,106,34,114281,83305,30976,27.11
+Software Development Engineer in Test II..,20476,106,24,91439,63788,27651,30.24
+Software Development Engineer in Test II..,20259,39,25,93235,71557,21678,23.25
+Software Development Engineer in Test II..,17416,152,40,118232,107020,11212,9.48
+Software Development Engineer in Test II..,17225,93,36,87949,63517,24432,27.78
+Software Development Engineer in Test II..,19816,101,29,97811,72820,24991,25.55
+Software Development Engineer in Test II..,11874,47,61,103415,73607,29808,28.82
+Software Development Engineer in Test II..,22971,25,6,187213,177145,10068,5.38
+Software Development Engineer in Test II..,22634,104,9,114591,75450,39141,34.16
+Software Development Engineer in Test II..,18631,38,35,102611,83995,18616,18.14
+Software Development Engineer in Test II..,16074,101,49,100576,80567,20009,19.89
+Software Development Engineer in Test II..,19472,39,32,78291,67231,11060,14.13
+Software Development Engineer in Test II..,16341,101,48,112008,77307,34701,30.98
+Software Development Engineer in Test II..,17137,151,42,130957,113937,17020,13
+Software Development Engineer in Test II..,20402,101,24,98565,71037,27528,27.93
+Software Development Engineer in Test II..,17040,39,43,99926,70299,29627,29.65
+Software Development Engineer in Test II..,15691,102,48,99552,80786,18766,18.85
+Software Development Engineer in Test II..,20465,76,24,122841,79188,43653,35.54
+Software Development Engineer in Test II..,17220,39,36,84132,57902,26230,31.18
+Software Development Engineer in Test II..,15218,39,56,98928,82709,16219,16.39
+Software Development Engineer in Test II..,19970,93,28,131345,89404,41941,31.93
+Software Development Engineer in Test II..,19707,76,21,107108,83982,23126,21.59
+Software Development Engineer in Test II..,22114,82,12,99200,85603,13597,13.71
+Software Development Engineer in Test..,19766,102,24,63009,43546,19463,30.89
+Software Development Engineer in Test..,20918,101,21,79449,63166,16283,20.49
+Software Development Engineer in Test..,19765,102,24,66850,49351,17499,26.18
+Software Development Engineer in Test..,19759,39,24,67608,58616,8992,13.3
+Software Development Engineer in Test..,17255,151,36,82001,63562,18439,22.49
+Software Development Engineer in Test..,20447,104,24,71851,51874,19977,27.8
+Software Development Engineer in Test..,21348,63,12,65087,51646,13441,20.65
+Software Development Engineer in Test..,21463,76,12,62087,49443,12644,20.36
+Software Development Engineer in Test..,19203,39,32,62087,57097,4990,8.04
+Software Development Engineer in Test..,19758,106,24,80754,55349,25405,31.46
+Software Development Engineer in Test..,19136,104,25,89853,77842,12011,13.37
+Software Development Engineer in Test..,21350,93,12,65087,50731,14356,22.06
+Software Development Engineer in Test..,20455,37,24,70236,63631,6605,9.4
+Software Development Engineer in Test..,20175,101,26,90198,62624,27574,30.57
+Software Development Engineer in Test..,21038,76,10,78242,72001,6241,7.98
+Software Development Engineer in Test..,21468,76,12,65087,53660,11427,17.56
+Software Development Engineer in Test..,17267,104,36,76234,57793,18441,24.19
+Software Development Engineer in Test..,21465,82,12,62087,46693,15394,24.79
+Software Development Engineer in Test..,20450,104,15,85059,65079,19980,23.49
+Software Development Engineer in Test..,21375,104,12,62087,48392,13695,22.06
+Software Development Engineer in Test..,19964,39,24,66832,58384,8448,12.64
+Software Development Engineer in Test..,21362,101,12,65087,58851,6236,9.58
+Software Development Engineer in Test..,19364,39,32,73027,63204,9823,13.45
+Software Development Engineer in Test..,20050,131,27,80413,70410,10003,12.44
+Software Development Engineer in Test..,20646,117,23,94375,82355,12020,12.74
+Software Development Engineer in Test..,22140,102,12,65087,58389,6698,10.29
+Software Development Engineer in Test..,20434,93,24,74615,55536,19079,25.57
+Software Development Engineer in Test..,19771,39,24,66832,52449,14383,21.52
+Software Development Engineer in Test.Principal Lead.,9118,131,82,304584,227630,76954,25.27
+Software Development Engineer in Test.Principal Lead.,6701,93,101,252353,150193,102160,40.48
+Software Development Engineer in Test.Principal Lead.,11835,101,66,334520,208388,126132,37.71
+Software Development Engineer in Test.Principal Lead.,3892,102,90,308280,218305,89975,29.19
+Software Development Engineer in Test.Principal.,10919,39,71,255455,187891,67564,26.45
+Software Development Engineer in Test.Principal.,17863,101,38,308449,173575,134874,43.73
+Software Development Engineer in Test.Senior II Lead.,19018,38,33,255399,149514,105885,41.46
+Software Development Engineer in Test.Senior II Lead.,17836,106,38,251374,155083,96291,38.31
+Software Development Engineer in Test.Senior II Lead.,10521,131,73,238323,145436,92887,38.98
+Software Development Engineer in Test.Senior II Lead.,20429,39,24,303880,210051,93829,30.88
+Software Development Engineer in Test.Senior II Lead.,5801,39,117,242083,153247,88836,36.7
+Software Development Engineer in Test.Senior II Lead.,10008,47,76,254223,183164,71059,27.95
+Software Development Engineer in Test.Senior II Lead.,11672,101,67,225454,160372,65082,28.87
+Software Development Engineer in Test.Senior II Lead.,19208,104,32,194994,145313,49681,25.48
+Software Development Engineer in Test.Senior II Lead.,21934,104,13,230273,155161,75112,32.62
+Software Development Engineer in Test.Senior II Lead.,10411,82,73,278219,170828,107391,38.6
+Software Development Engineer in Test.Senior II Lead.,20087,39,26,225910,175009,50901,22.53
+Software Development Engineer in Test.Senior II Lead.,12254,104,63,220601,140982,79619,36.09
+Software Development Engineer in Test.Senior II.,19085,38,33,241541,160218,81323,33.67
+Software Development Engineer in Test.Senior II.,19905,39,28,209583,131714,77869,37.15
+Software Development Engineer in Test.Senior II.,21017,101,20,204163,143005,61158,29.96
+Software Development Engineer in Test.Senior II.,18273,37,37,214580,168315,46265,21.56
+Software Development Engineer in Test.Senior II.,5224,39,124,216763,166083,50680,23.38
+Software Development Engineer in Test.Senior II.,17264,101,41,227364,154619,72745,31.99
+Software Development Engineer in Test.Senior II.,14752,104,59,193755,86175,107580,55.52
+Software Development Engineer in Test.Senior II.,17412,101,40,221303,140060,81243,36.71
+Software Development Engineer in Test.Senior II.,7683,93,93,209700,130200,79500,37.91
+Software Development Engineer in Test.Senior II.,18800,101,35,220634,182178,38456,17.43
+Software Development Engineer in Test.Senior II.,20529,101,24,240649,158211,82438,34.26
+Software Development Engineer in Test.Senior II.,18246,82,37,219167,84064,135103,61.64
+Software Development Engineer in Test.Senior II.,10505,106,73,235845,144251,91594,38.84
+Software Development Engineer in Test.Senior II.,5630,132,18,262432,151230,111202,42.37
+Software Development Engineer in Test.Senior II.,19006,39,34,212200,145686,66514,31.34
+Software Development Engineer in Test.Senior II.,18662,104,35,246014,116458,129556,52.66
+Software Development Engineer in Test.Senior II.,16094,122,21,215725,136705,79020,36.63
+Software Development Engineer in Test.Senior II.,7101,93,97,242623,153489,89134,36.74
+Software Development Engineer in Test.Senior II.,16292,101,48,221544,131095,90449,40.83
+Software Development Engineer in Test.Senior II.,15556,93,53,183561,119764,63797,34.76
+Software Development Engineer in Test.Senior II.,14900,122,58,215116,138894,76222,35.43
+Software Development Engineer in Test.Senior II.,15572,39,53,271006,178628,92378,34.09
+Software Development Engineer in Test.Senior II.,15349,45,55,26796,24325,2471,9.22
+Software Development Engineer in Test.Senior II.,14895,131,58,237892,144129,93763,39.41
+Software Development Engineer in Test.Senior Lead.,19941,76,14,162451,99507,62944,38.75
+Software Development Engineer in Test.Senior Lead.,18793,104,35,162967,130814,32153,19.73
+Software Development Engineer in Test.Senior Lead.,17442,152,40,198668,154329,44339,22.32
+Software Development Engineer in Test.Senior Lead.,19675,117,30,188605,118308,70297,37.27
+Software Development Engineer in Test.Senior.,17669,151,39,172598,105034,67564,39.15
+Software Development Engineer in Test.Senior.,18619,38,35,202309,135199,67110,33.17
+Software Development Engineer in Test.Senior.,15384,39,55,132036,115515,16521,12.51
+Software Development Engineer in Test.Senior.,15688,39,48,132749,98754,33995,25.61
+Software Development Engineer in Test.Senior.,15205,101,11,209647,165053,44594,21.27
+Software Development Engineer in Test.Senior.,17338,101,41,126230,107703,18527,14.68
+Software Development Engineer in Test.Senior.,17926,151,38,188172,150926,37246,19.79
+Software Development Engineer in Test.Senior.,17453,131,40,267263,267063,200,0.07
+Software Development Engineer in Test.Senior.,17406,106,40,153353,96090,57263,37.34
+Software Development Engineer in Test.Senior.,20889,106,21,175572,84228,91344,52.03
+Software Development Engineer in Test.Senior.,17109,151,42,162139,107207,54932,33.88
+Software Development Engineer in Test.Senior.,22180,106,12,178533,124526,54007,30.25
+Software Development Engineer in Test.Senior.,15096,82,57,146755,101126,45629,31.09
+Software Development Engineer in Test.Senior.,20738,93,22,158994,113980,45014,28.31
+Software Development Engineer in Test.Senior.,23000,42,6,195785,184961,10824,5.53
+Software Development Engineer in Test.Senior.,17488,131,39,169257,117543,51714,30.55
+Software Development Engineer in Test.Senior.,18813,76,34,97495,60977,36518,37.46
+Software Development Engineer in Test.Senior.,22448,101,10,135867,116583,19284,14.19
+Software Development Engineer in Test.Senior.,16990,39,43,159715,124895,34820,21.8
+Software Development Engineer in Test.Senior.,20082,102,26,176947,132771,44176,24.97
+Software Development Engineer in Test.Senior.,18521,93,36,167346,110263,57083,34.11
+Software Development Engineer in Test.Senior.,6095,39,111,187462,101357,86105,45.93
+Software Development Engineer in Test.Senior.,22372,39,10,130933,114303,16630,12.7
+Software Development Engineer in Test.Senior.,19179,102,33,128998,103512,25486,19.76
+Software Development Engineer in Test.Senior.,22838,122,7,216267,153781,62486,28.89
+Software Development Engineer in Test.Senior.,21617,47,15,147867,106601,41266,27.91
+Software Development Engineer in Test.Senior.,17318,102,41,156330,120663,35667,22.82
+Software Development Engineer in Test.Senior.,15555,104,53,141710,90899,50811,35.86
+Software Development Engineer in Test.Senior.,22189,106,12,167600,137085,30515,18.21
+Software Development Engineer in Test.Senior.,11168,39,69,139902,113127,26775,19.14
+Software Development Engineer in Test.Senior.,22405,39,10,162667,99848,62819,38.62
+Software Development Engineer in Test.Senior.,18715,76,35,160354,133198,27156,16.94
+Software Development Engineer in Test.Senior.,22771,131,8,162667,82096,80571,49.53
+Software Engineer II..,20169,102,26,133988,110670,23318,17.4
+Software Engineer II..,22031,43,12,119033,98506,20527,17.24
+Software Engineer II..,19568,43,31,112956,101000,11956,10.58
+Software Engineer II..,17223,43,36,100350,74714,25636,25.55
+Software Engineer II..,22051,34,12,133487,104606,28881,21.64
+Software Engineer II..,18461,151,36,111498,73933,37565,33.69
+Software Engineer II..,20645,43,23,122829,73438,49391,40.21
+Software Engineer II..,22820,104,8,170600,122748,47852,28.05
+Software Engineer II..,15049,34,57,176051,111165,64886,36.86
+Software Engineer II..,16369,47,48,128196,53128,75068,58.56
+Software Engineer II..,10125,34,59,122833,96669,26164,21.3
+Software Engineer II..,19066,63,33,133224,133024,200,0.15
+Software Engineer II..,18470,76,36,104496,70991,33505,32.06
+Software Engineer II..,17214,82,36,121507,97566,23941,19.7
+Software Engineer II..,19658,106,30,133804,104787,29017,21.69
+Software Engineer II..,18478,102,36,114002,83381,30621,26.86
+Software Engineer II..,17247,63,36,108895,93351,15544,14.27
+Software Engineer II..,19193,63,32,189113,146866,42247,22.34
+Software Engineer II..,22299,34,11,129917,109628,20289,15.62
+Software Engineer II..,22799,96,8,112067,104339,7728,6.9
+Software Engineer II..,16336,43,48,103297,76237,27060,26.2
+Software Engineer II..,19397,113,27,134518,104653,29865,22.2
+Software Engineer II..,20625,104,23,153702,122659,31043,20.2
+Software Engineer II..,22275,43,11,126967,68593,58374,45.98
+Software Engineer II..,19711,43,30,117050,100191,16859,14.4
+Software Engineer II..,15693,34,48,110911,81888,29023,26.17
+Software Engineer II..,20607,104,23,155396,126329,29067,18.71
+Software Engineer II..,17224,76,36,101114,85071,16043,15.87
+Software Engineer II..,21132,113,19,140140,106287,33853,24.16
+Software Engineer II..,20582,63,23,166435,129004,37431,22.49
+Software Engineer II..,14236,31,61,112295,97552,14743,13.13
+Software Engineer II..,21793,104,14,150097,115960,34137,22.74
+Software Engineer II..,23022,28,6,113126,107113,6013,5.32
+Software Engineer II..,20728,106,22,128395,106809,21586,16.81
+Software Engineer II..,18961,82,34,170959,101764,69195,40.47
+Software Engineer II..,21782,43,14,156900,115453,41447,26.42
+Software Engineer II..,15730,43,46,98683,83428,15255,15.46
+Software Engineer II..,17221,82,36,108612,75722,32890,30.28
+Software Engineer II..,17752,82,39,128260,96593,31667,24.69
+Software Engineer II..,17213,43,36,113708,82360,31348,27.57
+Software Engineer II..,17869,82,38,116817,101663,15154,12.97
+Software Engineer II..,17227,106,36,133603,89514,44089,33
+Software Engineer II..,19763,76,24,100843,68500,32343,32.07
+Software Engineer II..,19354,43,32,115128,99124,16004,13.9
+Software Engineer II..,22867,43,7,136725,103219,33506,24.51
+Software Engineer II..,22950,117,6,445075,431731,13344,3
+Software Engineer II..,19514,43,31,105898,90127,15771,14.89
+Software Engineer II..,18100,47,37,699,699,0,0
+Software Engineer II..,17218,151,36,112204,76036,36168,32.23
+Software Engineer II..,15588,34,53,152402,85701,66701,43.77
+Software Engineer II..,16524,96,47,146846,123276,23570,16.05
+Software Engineer II..,22452,43,10,119033,103984,15049,12.64
+Software Engineer II..,16002,28,9,146800,126679,20121,13.71
+Software Engineer II..,22118,96,12,133725,113175,20550,15.37
+Software Engineer II..,15692,43,48,118660,88602,30058,25.33
+Software Engineer II..,22772,38,8,123967,111941,12026,9.7
+Software Engineer II..,22431,43,10,143800,132492,11308,7.86
+Software Engineer II..,10663,102,72,135504,98958,36546,26.97
+Software Engineer II..,15051,37,57,125510,108375,17135,13.65
+Software Engineer II..,20562,96,23,136725,99832,36893,26.98
+Software Engineer II..,23030,43,6,106605,100783,5822,5.46
+Software Engineer II..,15953,43,50,98566,70343,28223,28.63
+Software Engineer II..,22433,102,10,120000,93265,26735,22.28
+Software Engineer II..,20193,34,26,141230,98936,42294,29.95
+Software Engineer II..,11305,43,38,113674,101524,12150,10.69
+Software Engineer II..,18917,93,34,162381,99400,62981,38.79
+Software Engineer II..,16331,76,48,118115,67877,50238,42.53
+Software Engineer II..,17904,4,38,109795,76008,33787,30.77
+Software Engineer II..,16365,45,48,133467,98447,35020,26.24
+Software Engineer II..,20254,63,25,135942,111272,24670,18.15
+Software Engineer..,21354,43,12,73813,58666,15147,20.52
+Software Engineer..,22445,4,10,96185,90114,6071,6.31
+Software Engineer..,22176,82,12,100167,85705,14462,14.44
+Software Engineer..,21351,4,12,73813,65910,7903,10.71
+Software Engineer..,21367,82,12,70813,54138,16675,23.55
+Software Engineer..,19757,106,24,101574,80427,21147,20.82
+Software Engineer..,21373,93,12,73447,52801,20646,28.11
+Software Engineer..,22453,4,10,88267,82027,6240,7.07
+Software Engineer..,19752,37,24,84087,71403,12684,15.08
+Software Engineer..,21383,4,12,70813,54940,15873,22.42
+Software Engineer..,21371,76,12,73813,57750,16063,21.76
+Software Engineer..,19762,43,24,78908,58011,20897,26.48
+Software Engineer..,21361,43,12,73813,56688,17125,23.2
+Software Engineer..,22148,43,12,70813,54652,16161,22.82
+Software Engineer..,21876,43,13,88267,79056,9211,10.44
+Software Engineer..,18473,93,36,87014,52500,34514,39.66
+Software Engineer..,22815,47,8,122200,115742,6458,5.28
+Software Engineer..,21358,43,12,73813,56340,17473,23.67
+Software Engineer..,19770,43,24,78219,54852,23367,29.87
+Software Engineer..,16353,113,48,85372,70283,15089,17.67
+Software Engineer..,21377,104,12,70813,58352,12461,17.6
+Software Engineer..,19767,104,24,86402,60636,25766,29.82
+Software Engineer..,21349,43,12,73813,57896,15917,21.56
+Software Engineer..,15117,63,33,85669,59434,26235,30.62
+Software Engineer..,19798,106,24,94630,64743,29887,31.58
+Software Engineer..,21374,43,12,73813,57433,16380,22.19
+Software Engineer..,19756,76,24,77502,67456,10046,12.96
+Software Engineer..,21472,34,12,73813,57343,16470,22.31
+Software Engineer..,19760,37,24,84662,72951,11711,13.83
+Software Engineer..,22289,106,11,93185,72026,21159,22.71
+Software Engineer..,21366,39,12,75668,60776,14892,19.68
+Software Engineer..,11877,113,59,99538,82367,17171,17.25
+Software Engineer..,21369,43,12,70813,55538,15275,21.57
+Software Engineer..,19769,28,24,76752,56356,20396,26.57
+Software Engineer..,22151,106,12,70813,51913,18900,26.69
+Software Engineer..,21356,43,12,73813,67362,6451,8.74
+Software Engineer..,21357,102,12,73813,61099,12714,17.22
+Software Engineer..,19751,43,24,74502,66840,7662,10.28
+Software Engineer..,22149,34,12,73813,56672,17141,23.22
+Software Engineer..,22269,4,11,93185,87469,5716,6.13
+Software Engineer..,21355,43,12,73813,57525,16288,22.07
+Software Engineer..,18694,113,35,107751,48781,58970,54.73
+Software Engineer..,22139,43,12,86283,68578,17705,20.52
+Software Engineer..,19768,106,24,102652,73236,29416,28.66
+Software Engineer..,19755,93,24,80883,62846,18037,22.3
+Software Engineer..,21347,63,12,73813,66965,6848,9.28
+Software Engineer..,21473,28,12,73813,57236,16577,22.46
+Software Engineer..,20907,82,21,115436,79930,35506,30.76
+Software Engineer..,21370,43,12,73813,57813,16000,21.68
+Software Engineer..,18480,104,36,89526,63733,25793,28.81
+Software Engineer.Principal Lead.,8592,43,85,516077,279445,236632,45.85
+Software Engineer.Principal Lead.,9333,47,80,510961,265185,245776,48.1
+Software Engineer.Principal Lead.,15306,93,56,330566,185324,145242,43.94
+Software Engineer.Principal.,20349,42,25,476188,224576,251612,52.84
+Software Engineer.Principal.,4807,122,133,376070,190321,185749,49.39
+Software Engineer.Principal.,9331,47,21,467780,233985,233795,49.98
+Software Engineer.Principal.,17415,42,40,533627,247945,285682,53.54
+Software Engineer.Principal.,19207,104,32,391846,214163,177683,45.35
+Software Engineer.Principal.,5057,34,127,351917,245021,106896,30.38
+Software Engineer.Principal.,19113,47,33,433172,212804,220368,50.87
+Software Engineer.Principal.,9360,106,79,388584,209788,178796,46.01
+Software Engineer.Senior II Lead.,16208,104,48,267066,151860,115206,43.14
+Software Engineer.Senior II Lead.,8613,43,85,211808,142905,68903,32.53
+Software Engineer.Senior II Lead.,6285,43,108,267228,141678,125550,46.98
+Software Engineer.Senior II Lead.,17873,104,38,264375,153793,110582,41.83
+Software Engineer.Senior II Lead.,10167,47,74,301605,171098,130507,43.27
+Software Engineer.Senior II Lead.,6288,106,108,259196,186722,72474,27.96
+Software Engineer.Senior II Lead.,11934,104,65,286098,165742,120356,42.07
+Software Engineer.Senior II Lead.,7379,34,95,261937,181841,80096,30.58
+Software Engineer.Senior II Lead.,6677,43,97,247988,155614,92374,37.25
+Software Engineer.Senior II Lead.,14019,104,62,280473,161424,119049,42.45
+Software Engineer.Senior II Lead.,12371,34,62,237740,139042,98698,41.52
+Software Engineer.Senior II Lead.,18626,104,35,252249,166968,85281,33.81
+Software Engineer.Senior II Lead.,16708,42,45,334279,201134,133145,39.83
+Software Engineer.Senior II Lead.,14928,82,58,295210,198198,97012,32.86
+Software Engineer.Senior II Lead.,5132,93,78,268718,156366,112352,41.81
+Software Engineer.Senior II Lead.,11948,34,65,231804,119351,112453,48.51
+Software Engineer.Senior II Lead.,5179,93,125,264772,154258,110514,41.74
+Software Engineer.Senior II Lead.,17751,43,39,268561,153442,115119,42.87
+Software Engineer.Senior II Lead.,14318,43,61,294719,184812,109907,37.29
+Software Engineer.Senior II Lead.,15056,93,57,288597,166500,122097,42.31
+Software Engineer.Senior II Lead.,8654,43,85,228917,149520,79397,34.68
+Software Engineer.Senior II Lead.,10872,93,71,265928,191786,74142,27.88
+Software Engineer.Senior II Lead.,7944,102,90,291982,142429,149553,51.22
+Software Engineer.Senior II Lead.,19948,43,28,291357,180068,111289,38.2
+Software Engineer.Senior II Lead.,8635,43,85,237598,142875,94723,39.87
+Software Engineer.Senior II Lead.,11626,47,67,285580,159019,126561,44.32
+Software Engineer.Senior II.,20507,102,24,264688,157656,107032,40.44
+Software Engineer.Senior II.,19704,34,30,230473,140965,89508,38.84
+Software Engineer.Senior II.,16523,34,35,239695,138378,101317,42.27
+Software Engineer.Senior II.,17310,34,34,211048,104657,106391,50.41
+Software Engineer.Senior II.,14862,43,58,229033,167832,61201,26.72
+Software Engineer.Senior II.,12344,47,63,213219,134339,78880,36.99
+Software Engineer.Senior II.,16923,151,43,224625,164672,59953,26.69
+Software Engineer.Senior II.,16344,93,48,235155,126972,108183,46
+Software Engineer.Senior II.,9417,43,79,243548,145874,97674,40.1
+Software Engineer.Senior II.,10534,117,73,231899,170263,61636,26.58
+Software Engineer.Senior II.,15008,43,57,204704,152163,52541,25.67
+Software Engineer.Senior II.,15294,43,56,210585,92552,118033,56.05
+Software Engineer.Senior II.,7315,102,95,239403,142182,97221,40.61
+Software Engineer.Senior II.,8778,43,84,212708,107577,105131,49.43
+Software Engineer.Senior II.,17059,151,42,280300,133797,146503,52.27
+Software Engineer.Senior II.,11740,34,66,225519,178944,46575,20.65
+Software Engineer.Senior II.,16432,93,48,224872,86978,137894,61.32
+Software Engineer.Senior II.,17486,34,39,240627,146150,94477,39.26
+Software Engineer.Senior II.,15393,42,55,213898,111248,102650,47.99
+Software Engineer.Senior II.,16712,42,45,262968,205241,57727,21.95
+Software Engineer.Senior II.,14328,96,61,239817,140110,99707,41.58
+Software Engineer.Senior II.,16239,93,48,224636,112244,112392,50.03
+Software Engineer.Senior II.,10733,43,72,188621,125669,62952,33.37
+Software Engineer.Senior II.,15340,105,55,265121,157839,107282,40.47
+Software Engineer.Senior II.,18767,104,35,212345,132864,79481,37.43
+Software Engineer.Senior II.,17637,117,39,270853,156389,114464,42.26
+Software Engineer.Senior II.,10881,42,17,266879,152809,114070,42.74
+Software Engineer.Senior II.,8384,106,87,239865,143314,96551,40.25
+Software Engineer.Senior II.,12123,106,64,235809,143011,92798,39.35
+Software Engineer.Senior II.,17178,151,41,284667,149463,135204,47.5
+Software Engineer.Senior II.,15300,122,56,275196,154496,120700,43.86
+Software Engineer.Senior II.,8814,82,84,263678,150910,112768,42.77
+Software Engineer.Senior II.,19791,37,29,289615,212855,76760,26.5
+Software Engineer.Senior II.,17438,37,40,291163,198861,92302,31.7
+Software Engineer.Senior II.,19091,82,33,321483,173112,148371,46.15
+Software Engineer.Senior II.,7851,34,91,213584,137552,76032,35.6
+Software Engineer.Senior II.,11247,93,69,242336,139685,102651,42.36
+Software Engineer.Senior II.,18102,82,37,251152,143346,107806,42.92
+Software Engineer.Senior II.,11836,106,66,226285,133623,92662,40.95
+Software Engineer.Senior II.,8140,43,84,220212,132264,87948,39.94
+Software Engineer.Senior II.,17941,37,38,257788,167974,89814,34.84
+Software Engineer.Senior II.,16522,34,47,205736,137082,68654,33.37
+Software Engineer.Senior II.,22770,63,8,249933,88691,161242,64.51
+Software Engineer.Senior II.,8135,43,82,199090,160417,38673,19.42
+Software Engineer.Senior II.,21493,47,17,283287,171504,111783,39.46
+Software Engineer.Senior II.,16360,28,48,211092,133002,78090,36.99
+Software Engineer.Senior II.,14290,106,61,263470,143997,119473,45.35
+Software Engineer.Senior II.,21381,42,18,296225,218884,77341,26.11
+Software Engineer.Senior II.,12023,43,64,208756,144277,64479,30.89
+Software Engineer.Senior II.,20192,42,26,241207,156140,85067,35.27
+Software Engineer.Senior II.,6003,104,108,265008,101488,163520,61.7
+Software Engineer.Senior II.,15325,34,55,216690,188751,27939,12.89
+Software Engineer.Senior II.,17479,34,39,244970,184211,60759,24.8
+Software Engineer.Senior II.,10802,34,39,232906,153452,79454,34.11
+Software Engineer.Senior II.,10118,34,75,209297,133851,75446,36.05
+Software Engineer.Senior II.,17164,104,42,278879,199729,79150,28.38
+Software Engineer.Senior Lead.,21936,43,13,223133,138748,84385,37.82
+Software Engineer.Senior Lead.,10660,4,72,157068,147430,9638,6.14
+Software Engineer.Senior.,23035,66,6,154048,145909,8139,5.28
+Software Engineer.Senior.,22782,43,8,195114,134709,60405,30.96
+Software Engineer.Senior.,18267,82,37,176391,124339,52052,29.51
+Software Engineer.Senior.,16071,45,49,146181,85642,60539,41.41
+Software Engineer.Senior.,20647,42,23,200556,130326,70230,35.02
+Software Engineer.Senior.,15855,34,50,156657,119992,36665,23.4
+Software Engineer.Senior.,21855,104,13,189889,106288,83601,44.03
+Software Engineer.Senior.,18469,82,36,183431,143985,39446,21.5
+Software Engineer.Senior.,17404,151,40,188931,143546,45385,24.02
+Software Engineer.Senior.,23026,104,6,161500,153110,8390,5.2
+Software Engineer.Senior.,14584,43,60,145228,116311,28917,19.91
+Software Engineer.Senior.,22399,34,10,191400,122776,68624,35.85
+Software Engineer.Senior.,16718,42,45,199892,105598,94294,47.17
+Software Engineer.Senior.,10732,43,72,176566,141271,35295,19.99
+Software Engineer.Senior.,17635,102,39,158611,122594,36017,22.71
+Software Engineer.Senior.,22821,47,8,195114,131417,63697,32.65
+Software Engineer.Senior.,9859,43,72,150972,102242,48730,32.28
+Software Engineer.Senior.,16629,122,46,150103,105057,45046,30.01
+Software Engineer.Senior.,18888,63,34,171731,130019,41712,24.29
+Software Engineer.Senior.,21131,102,19,211742,117430,94312,44.54
+Software Engineer.Senior.,22285,43,11,196184,131117,65067,33.17
+Software Engineer.Senior.,16551,34,11,154733,96240,58493,37.8
+Software Engineer.Senior.,20368,34,12,195114,127774,67340,34.51
+Software Engineer.Senior.,22984,34,6,249344,235835,13509,5.42
+Software Engineer.Senior.,11156,43,69,143817,131707,12110,8.42
+Software Engineer.Senior.,14585,117,60,175415,108779,66636,37.99
+Software Engineer.Senior.,11223,47,69,183001,90972,92029,50.29
+Software Engineer.Senior.,16943,34,26,197254,106675,90579,45.92
+Software Engineer.Senior.,22859,93,7,194400,141995,52405,26.96
+Software Engineer.Senior.,18367,43,36,159908,73662,86246,53.93
+Software Engineer.Senior.,19161,4,33,188617,116297,72320,38.34
+Software Engineer.Senior.,22843,42,7,202333,143840,58493,28.91
+Software Engineer.Senior.,22309,34,11,194400,151579,42821,22.03
+Software Engineer.Senior.,22816,122,8,215200,167585,47615,22.13
+Software Engineer.Senior.,18795,93,35,164983,124850,40133,24.33
+Software Engineer.Senior.,19731,82,30,180086,141446,38640,21.46
+Software Engineer.Senior.,17880,34,11,191400,125293,66107,34.54
+Software Engineer.Senior.,11024,34,70,209503,134803,74700,35.66
+Software Engineer.Senior.,14610,45,60,157166,108062,49104,31.24
+Software Engineer.Senior.,7445,104,95,188788,124462,64326,34.07
+Software Engineer.Senior.,16421,34,48,186003,121450,64553,34.71
+Software Engineer.Senior.,20088,122,26,181865,138391,43474,23.9
+Software Engineer.Senior.,20332,42,25,235405,143963,91442,38.84
+Software Engineer.Senior.,19022,63,33,176923,138075,38848,21.96
+Software Engineer.Senior.,18887,34,34,163174,127579,35595,21.81
+Software Engineer.Senior.,19368,93,32,137280,81012,56268,40.99
+Software Engineer.Senior.,21822,43,14,195366,116605,78761,40.31
+Software Engineer.Senior.,7324,96,23,162103,100765,61338,37.84
+Software Engineer.Senior.,22252,93,11,170600,103637,66963,39.25
+Software Engineer.Senior.,15504,43,54,158382,128599,29783,18.8
+Software Engineer.Senior.,20525,42,24,246040,147031,99009,40.24
+Software Engineer.Senior.,18542,43,36,148211,125892,22319,15.06
+Software Engineer.Senior.,21772,76,14,195114,150993,44121,22.61
+Software Engineer.Senior.,18590,34,36,171928,109514,62414,36.3
+Software Engineer.Senior.,10646,43,72,155555,89161,66394,42.68
+Software Engineer.Senior.,21069,43,20,183400,127030,56370,30.74
+Software Engineer.Senior.,17179,96,41,192043,120422,71621,37.29
+Software Engineer.Senior.,17380,151,40,233541,136281,97260,41.65
+Software Engineer.Senior.,18275,43,37,151311,100240,51071,33.75
+Software Engineer.Senior.,20474,102,24,166602,125696,40906,24.55
+Software Engineer.Senior.,10651,43,72,141215,103495,37720,26.71
+Software Engineer.Senior.,10120,34,75,167374,143350,24024,14.35
+Software Engineer.Senior.,18727,34,28,177688,102627,75061,42.24
+Software Engineer.Senior.,18898,106,34,195495,129384,66111,33.82
+Software Engineer.Senior.,22922,104,7,363633,307365,56268,15.47
+Software Engineer.Senior.,19661,106,30,15294,12264,3030,19.81
+Software Engineer.Senior.,17875,63,38,160844,104250,56594,35.19
+Software Engineer.Senior.,14571,42,60,134118,91523,42595,31.76
+Software Engineer.Senior.,19506,34,32,205381,135595,69786,33.98
+Software Engineer.Senior.,16520,28,9,196532,131468,65064,33.11
+Software Engineer.Senior.,16933,63,43,157389,84716,72673,46.17
+Software Engineer.Senior.,19890,102,28,170397,134375,36022,21.14
+Software Engineer.Senior.,22376,39,10,162667,110644,52023,31.98
+Software Engineer.Senior.,22017,42,13,192114,133105,59009,30.72
+Software Engineer.Senior.,17980,93,38,171056,135797,35259,20.61
+Software Engineer.Senior.,22069,104,12,198818,122783,76035,38.24
+Software Engineer.Senior.,21788,47,14,250900,186208,64692,25.78
+Software Engineer.Senior.,11999,47,64,185687,115006,70681,38.06
+Software Engineer.Senior.,19068,43,33,208169,108763,99406,47.75
+Software Engineer.Senior.,22680,34,9,158700,136991,21709,13.68
+Software Engineer.Senior.,10119,34,75,162016,116053,45963,28.37
+Software Engineer.Senior.,6597,113,101,228296,166795,61501,26.94
+Software Engineer.Senior.,18921,93,34,170548,136478,34070,19.98
+Software Engineer.Senior.,22689,34,8,212250,127263,84987,40.04
+Software Engineer.Senior.,19644,93,30,152607,99193,53414,35
+Software Engineer.Senior.,19588,43,31,127201,110769,16432,12.92
+Software Engineer.Senior.,8134,104,84,188155,121407,66748,35.48
+Solutions Architect II..,18734,126,35,129121,92026,37095,28.73
+Solutions Architect II..,21881,25,13,158270,120689,37581,23.74
+Solutions Architect II..,6897,128,88,136062,89438,46624,34.27
+Solutions Architect II..,21630,125,15,176716,139824,36892,20.88
+Solutions Architect II..,20978,124,21,153567,124554,29013,18.89
+Solutions Architect II..,18582,124,36,126334,113651,12683,10.04
+Solutions Architect II..,18960,130,34,157816,108713,49103,31.11
+Solutions Architect II..,18481,25,36,128471,109260,19211,14.95
+Solutions Architect II..,15091,126,8,163222,140365,22857,14
+Solutions Architect II..,18885,126,34,126536,104011,22525,17.8
+Solutions Architect II..,15503,65,40,148654,131798,16856,11.34
+Solutions Architect II..,17930,126,38,166280,135226,31054,18.68
+Solutions Architect II..,22866,127,7,151337,135148,16189,10.7
+Solutions Architect II..,9197,126,81,154834,122558,32276,20.85
+Solutions Architect II..,15380,124,55,150338,100237,50101,33.33
+Solutions Architect II..,17132,124,42,176041,115232,60809,34.54
+Solutions Architect II..,11295,65,69,135063,104901,30162,22.33
+Solutions Architect II..,16024,65,49,156759,107115,49644,31.67
+Solutions Architect II..,15420,128,55,139270,87887,51383,36.89
+Solutions Architect II..,16093,65,49,148974,82159,66815,44.85
+Solutions Architect II..,15789,25,50,131726,91262,40464,30.72
+Solutions Architect II..,15279,126,56,132702,104691,28011,21.11
+Solutions Architect II..,20943,127,21,149353,121722,27631,18.5
+Solutions Architect II..,17304,125,41,147007,117736,29271,19.91
+Solutions Architect II..,19069,65,33,131769,109312,22457,17.04
+Solutions Architect II..,14587,128,60,145308,108075,37233,25.62
+Solutions Architect II..,20473,125,24,167996,121443,46553,27.71
+Solutions Architect II..,15612,126,52,169141,127485,41656,24.63
+Solutions Architect II..,21871,62,13,163650,117098,46552,28.45
+Solutions Architect II..,22293,25,11,162667,119255,43412,26.69
+Solutions Architect II..,18296,65,37,131181,93076,38105,29.05
+Solutions Architect II..,17971,107,38,173915,118903,55012,31.63
+Solutions Architect II..,15788,126,50,131185,86820,44365,33.82
+Solutions Architect II..,20963,125,21,158500,130833,27667,17.46
+Solutions Architect II..,16751,125,45,162399,106700,55699,34.3
+Solutions Architect II..,18618,64,35,194241,153119,41122,21.17
+Solutions Architect II..,16167,62,49,155214,100100,55114,35.51
+Solutions Architect II..,15716,128,51,158260,128290,29970,18.94
+Solutions Architect II..,22678,127,9,154337,123676,30661,19.87
+Solutions Architect II..,19088,126,33,151863,109867,41996,27.65
+Solutions Architect II..,16547,25,46,144322,113536,30786,21.33
+Solutions Architect II..,22213,126,11,159667,127561,32106,20.11
+Solutions Architect II..,15278,125,56,152548,115740,36808,24.13
+Solutions Architect II..,16185,126,49,134523,86634,47889,35.6
+Solutions Architect II..,15519,125,54,130294,55160,75134,57.66
+Solutions Architect II..,14902,126,58,148573,94043,54530,36.7
+Solutions Architect II..,21971,62,13,173667,113818,59849,34.46
+Solutions Architect II..,14937,65,58,115908,94275,21633,18.66
+Solutions Architect II..,11503,62,67,132568,89836,42732,32.23
+Solutions Architect II..,21767,107,14,159097,130415,28682,18.03
+Solutions Architect II..,17381,65,40,152140,121400,30740,20.21
+Solutions Architect II..,11332,128,68,156414,121192,35222,22.52
+Solutions Architect II..,17112,25,42,154986,119339,35647,23
+Solutions Architect II..,17175,125,41,150322,122002,28320,18.84
+Solutions Architect II..,17929,25,38,150234,110728,39506,26.3
+Solutions Architect II..,16724,125,45,175771,113944,61827,35.17
+Solutions Architect II..,16558,124,46,156379,100678,55701,35.62
+Solutions Architect II..,20672,125,23,168070,114416,53654,31.92
+Solutions Architect II..,6447,65,61,120245,100779,19466,16.19
+Solutions Architect II..,15764,126,51,127754,108090,19664,15.39
+Solutions Architect II..,15649,65,52,129166,111907,17259,13.36
+Solutions Architect II..,16840,125,44,140240,93057,47183,33.64
+Solutions Architect II..,21501,128,17,159375,129458,29917,18.77
+Solutions Architect II..,14586,126,60,135816,107214,28602,21.06
+Solutions Architect II..,20671,125,23,172259,126835,45424,26.37
+Solutions Architect II..,17356,128,40,141053,89568,51485,36.5
+Solutions Architect II..,23047,25,6,112738,106704,6034,5.35
+Solutions Architect II..,15712,124,51,154735,147711,7024,4.54
+Solutions Architect II.Lead.,19969,127,28,173015,108952,64063,37.03
+Solutions Architect..,19470,126,32,114628,78878,35750,31.19
+Solutions Architect..,23031,25,6,84317,79735,4582,5.43
+Solutions Architect..,16288,125,48,110643,74541,36102,32.63
+Solutions Architect..,21972,65,13,81178,47548,33630,41.43
+Solutions Architect..,16243,125,48,119582,92272,27310,22.84
+Solutions Architect..,18697,125,35,107452,50148,57304,53.33
+Solutions Architect..,15742,128,51,102047,85714,16333,16.01
+Solutions Architect..,22363,128,10,111598,96327,15271,13.68
+Solutions Architect..,17334,125,41,110666,91902,18764,16.96
+Solutions Architect..,21718,125,14,126767,91489,35278,27.83
+Solutions Architect..,16357,125,48,122099,88438,33661,27.57
+Solutions Architect..,21715,125,14,121167,101009,20158,16.64
+Solutions Architect..,16489,124,47,114272,94358,19914,17.43
+Solutions Architect..,20574,125,23,129391,109871,19520,15.09
+Solutions Architect..,18629,65,35,114398,100307,14091,12.32
+Solutions Architect..,19764,25,24,95385,81308,14077,14.76
+Solutions Architect..,18884,25,34,132569,116172,16397,12.37
+Solutions Architect..,22621,126,9,100532,94296,6236,6.2
+Solutions Architect..,22190,25,12,113081,96746,16335,14.45
+Solutions Architect..,21719,62,14,131914,104867,27047,20.5
+Solutions Architect..,16355,128,48,105816,88442,17374,16.42
+Solutions Architect..,22607,65,9,97646,85584,12062,12.35
+Solutions Architect..,18714,126,35,112067,97704,14363,12.82
+Solutions Architect..,21611,125,15,115861,78971,36890,31.84
+Solutions Architect..,20654,125,23,124605,95988,28617,22.97
+Solutions Architect..,21564,125,16,127467,92210,35257,27.66
+Solutions Architect..,18586,65,36,117426,101952,15474,13.18
+Solutions Architect..,19024,124,33,126366,106020,20346,16.1
+Solutions Architect.Associate.,21376,25,12,58517,53517,5000,8.54
+Solutions Architect.Associate.,21352,128,12,73469,58789,14680,19.98
+Solutions Architect.Associate.,21818,125,14,85661,68719,16942,19.78
+Solutions Architect.Senior II.,6595,125,103,264486,155197,109289,41.32
+Solutions Architect.Senior II.,1934,130,143,169588,129805,39783,23.46
+Solutions Architect.Senior Lead.,17429,128,40,263207,191013,72194,27.43
+Solutions Architect.Senior Lead.,7025,65,92,203468,161742,41726,20.51
+Solutions Architect.Senior Lead.,8806,65,84,222019,132237,89782,40.44
+Solutions Architect.Senior Lead.,14722,126,59,252589,189388,63201,25.02
+Solutions Architect.Senior.,23023,25,6,232628,220380,12248,5.27
+Solutions Architect.Senior.,16476,125,47,222235,141607,80628,36.28
+Solutions Architect.Senior.,8807,128,84,242464,146727,95737,39.49
+Solutions Architect.Senior.,16311,125,48,218041,168818,49223,22.58
+Solutions Architect.Senior.,10138,126,75,202840,141970,60870,30.01
+Solutions Architect.Senior.,8787,125,84,204752,140899,63853,31.19
+Solutions Architect.Senior.,6919,126,28,226288,168019,58269,25.75
+Solutions Architect.Senior.,15975,25,50,249868,184772,65096,26.05
+Solutions Architect.Senior.,15342,25,55,364137,306221,57916,15.91
+Solutions Architect.Senior.,15791,25,50,225695,122631,103064,45.67
+Solutions Architect.Senior.,11122,125,70,232397,138681,93716,40.33
+Solutions Architect.Senior.,9869,126,77,236285,172691,63594,26.91
+Solutions Architect.Senior.,16209,125,48,213420,170588,42832,20.07
+Solutions Architect.Senior.,16223,25,48,240900,180528,60372,25.06
+Solutions Architect.Senior.,7317,125,40,736,736,0,0
+Solutions Engineer II..,19778,19,29,212250,157576,54674,25.76
+Solutions Engineer.Senior.,6408,90,18,297840,195107,102733,34.49
+Strategic Sales Director..,2840,20,190,634733,298353,336380,53
+Supervisor..Help Desk,14829,46,58,237806,152980,84826,35.67
+Supervisor..Help Desk,8328,46,87,211594,95281,116313,54.97
+Support Delivery Manager II..,17935,13,38,348617,268364,80253,23.02
+Support Delivery Manager II..,18243,13,37,223968,128485,95483,42.63
+Support Delivery Manager..,22783,13,8,264109,174542,89567,33.91
+Support Delivery Manager..,21849,13,13,260000,167460,92540,35.59
+Support Delivery Manager..,21581,13,15,299277,166456,132821,44.38
+Support Delivery Manager..,22300,13,11,274165,222823,51342,18.73
+Support Delivery Manager..,22988,13,6,297127,281601,15526,5.23
+Support Delivery Manager.Senior.,5137,13,17,263401,177445,85956,32.63
+Support Delivery Specialist..,20077,13,26,190219,150262,39957,21.01
+Support Delivery Specialist..,14731,3,59,139558,91397,48161,34.51
+Support Delivery Specialist..,20117,13,26,215214,140492,74722,34.72
+System Operations Engineer II..,22157,105,12,119485,93811,25674,21.49
+System Operations Engineer..,16337,118,48,75149,69688,5461,7.27
+System Operations Engineer..,22434,118,10,86283,80120,6163,7.14
+System Operations Engineer..,20577,105,23,121984,99332,22652,18.57
+System Operations Engineer.Senior II Lead.,15743,122,51,235319,156658,78661,33.43
+System Operations Engineer.Senior II Lead.,19939,101,28,229495,127616,101879,44.39
+System Operations Engineer.Senior II.,19645,42,30,228399,132665,95734,41.92
+System Operations Engineer.Senior II.,21839,42,13,252993,146332,106661,42.16
+System Operations Engineer.Senior Lead.,9325,105,80,196804,158729,38075,19.35
+System Operations Engineer.Senior.,19915,101,28,160981,130332,30649,19.04
+System Operations Engineer.Senior.,15388,105,43,140477,96209,44268,31.51
+System Operations Engineer.Senior.,22844,42,7,183467,154289,29178,15.9
+Systems Administrator II..,9897,46,77,143729,94825,48904,34.03
+Systems Administrator II..UNIX,15817,46,50,148610,121969,26641,17.93
+Systems Administrator II..UNIX,10637,46,49,131324,103423,27901,21.25
+Systems Administrator II..UNIX,19967,46,28,128783,108663,20120,15.62
+Systems Administrator II..UNIX,12161,46,49,135338,80778,54560,40.31
+Systems Administrator II..UNIX,20191,46,26,166817,128317,38500,23.08
+Systems Administrator II..Windows,14516,46,48,149739,122371,27368,18.28
+Systems Administrator II..Windows,17686,46,39,168432,134895,33537,19.91
+Systems Administrator II..Windows,14429,46,61,136607,94665,41942,30.7
+Systems Administrator..,21067,46,9,114685,109277,5408,4.72
+Systems Administrator..,19579,46,31,78565,54393,24172,30.77
+Systems Administrator..Windows,22987,46,6,143988,135858,8130,5.65
+Systems Administrator..Windows,19605,46,31,121840,101419,20421,16.76
+Systems Administrator.Senior Lead.UNIX,19192,46,32,237438,165588,71850,30.26
+Systems Administrator.Senior Lead.UNIX,18269,46,37,169716,105074,64642,38.09
+Systems Administrator.Senior Lead.UNIX,8237,46,88,247164,153815,93349,37.77
+Systems Administrator.Senior Lead.Windows,19119,46,33,210834,165726,45108,21.4
+Systems Administrator.Senior.UNIX,7267,46,47,199323,154035,45288,22.72
+Systems Administrator.Senior.UNIX,17000,46,43,233796,175536,58260,24.92
+Systems Administrator.Senior.Windows,5987,46,104,195250,149257,45993,23.56
+Systems Engineer II..,10654,37,72,146361,93547,52814,36.08
+Systems Engineer II..,23029,37,6,122269,115658,6611,5.41
+Systems Engineer..,11881,116,59,122568,92080,30488,24.87
+Systems Engineer..,16401,63,48,104810,74184,30626,29.22
+Systems Engineer..,20075,63,26,108840,90268,18572,17.06
+Systems Engineer..,22310,63,11,102560,89658,12902,12.58
+Systems Engineer..,17903,46,38,135772,110641,25131,18.51
+Systems Engineer..,18094,120,14,76367,65104,11263,14.75
+Systems Engineer.Associate.,20449,105,24,59872,30791,29081,48.57
+Systems Engineer.Associate.,22025,120,12,74457,61527,12930,17.37
+Systems Engineer.Associate.,21921,120,13,60500,53822,6678,11.04
+Systems Engineer.Principal.,17108,37,42,312250,220533,91717,29.37
+Systems Engineer.Principal.,15516,37,54,223424,167029,56395,25.24
+Systems Engineer.Senior.,9100,46,82,249559,184711,64848,25.99
+Systems Engineer.Senior.,22354,37,10,249933,124993,124940,49.99
+Systems Engineer.Senior.,23048,37,6,156501,148306,8195,5.24
+Systems Engineer.Senior.,18589,37,36,230869,178059,52810,22.87
+Systems Engineer.Senior.,18863,37,34,232542,137455,95087,40.89
+Systems Engineer.Senior.,22998,46,6,299358,284242,15116,5.05
+Systems Support Engineer II..,22552,37,9,114591,77415,37176,32.44
+Systems Support Engineer II..,17861,76,38,106812,91975,14837,13.89
+Systems Support Engineer II..,18301,82,37,104129,75363,28766,27.63
+Systems Support Engineer II..,22727,76,8,106933,89377,17556,16.42
+Systems Support Engineer II..,16164,76,49,97847,70042,27805,28.42
+Systems Support Engineer II..,19559,76,31,87312,75978,11334,12.98
+Systems Support Engineer II..,16019,76,49,94347,72214,22133,23.46
+Systems Support Engineer..,19459,76,32,81085,63511,17574,21.67
+Systems Support Engineer..,22905,113,7,125795,120628,5167,4.11
+Systems Support Engineer.Senior II Lead.,7946,76,90,201224,94933,106291,52.82
+Systems Support Engineer.Senior II Lead.,7668,76,93,240056,148007,92049,38.34
+Systems Support Engineer.Senior II Lead.,6294,105,108,191108,130136,60972,31.9
+Systems Support Engineer.Senior II Lead.,7268,76,96,232980,138137,94843,40.71
+Systems Support Engineer.Senior II Lead.,4160,82,148,263158,161224,101934,38.73
+Systems Support Engineer.Senior II.,15298,76,56,222380,168702,53678,24.14
+Systems Support Engineer.Senior II.,11225,82,69,233475,146453,87022,37.27
+Systems Support Engineer.Senior II.,11329,76,68,233239,174820,58419,25.05
+Systems Support Engineer.Senior Lead.,16411,37,48,174089,107083,67006,38.49
+Systems Support Engineer.Senior.,17103,76,42,146703,119844,26859,18.31
+Systems Support Engineer.Senior.,18896,76,34,138934,114656,24278,17.47
+Systems Support Engineer.Senior.,14482,76,60,166223,110286,55937,33.65
+Systems Support Engineer.Senior.,14323,105,61,185842,118536,67306,36.22
+Systems Support Engineer.Senior.,11998,76,64,176492,115154,61338,34.75
+Talent Sourcing and Research Specialist II..,17788,133,17,128628,104367,24261,18.86
+Talent Sourcing and Research Specialist II..,19748,133,10,104133,94167,9966,9.57
+Talent Sourcing and Research Specialist II..,17837,133,17,124210,104759,19451,15.66
+Technical Account Manager II..,21091,1,20,184904,149027,35877,19.4
+Technical Account Manager II..,18696,1,35,183865,139469,44396,24.15
+Technical Account Manager..,20362,1,25,133673,107065,26608,19.91
+Technical Account Manager..,18860,1,34,140609,95968,44641,31.75
+Technical Account Manager..,19949,91,28,148796,118096,30700,20.63
+Technical Account Manager.Senior.,6869,1,100,115843,113844,1999,1.73
+Technical Consultant II..,20759,91,22,212106,162244,49862,23.51
+Technical Consultant..,9237,91,81,125949,104992,20957,16.64
+Technical Enablement Strategist..,7599,70,93,183606,143616,39990,21.78
+Technical Enablement Strategist.Senior.,6216,70,108,279962,202313,77649,27.74
+Technical Project Manager II..,9356,25,79,154535,124097,30438,19.7
+Technical Project Manager II..,21419,137,17,155524,130436,25088,16.13
+Technical Project Manager II..,11100,21,10,163222,137463,25759,15.78
+Technical Project Manager II..,15819,21,50,163222,144268,18954,11.61
+Technical Project Manager II..,7684,25,93,166308,122124,44184,26.57
+Technical Project Manager II..,7305,21,17,166565,132665,33900,20.35
+Technical Project Manager II..,9373,21,79,187260,143000,44260,23.64
+Technical Project Manager II..,15301,137,56,190281,150835,39446,20.73
+Technical Project Manager II..,16733,25,45,164949,124247,40702,24.68
+Technical Project Manager II..,21116,137,20,239957,189697,50260,20.95
+Technical Project Manager II..,11046,21,70,154351,98569,55782,36.14
+Technical Project Manager II..,22179,137,12,164239,135594,28645,17.44
+Technical Project Manager II..,16138,25,49,138925,91470,47455,34.16
+Technical Project Manager II..,15263,137,56,150184,125232,24952,16.61
+Technical Project Manager II..,15402,32,55,180595,110433,70162,38.85
+Technical Project Manager II..,22986,25,6,418587,407005,11582,2.77
+Technical Project Manager II..,18147,137,37,153655,104066,49589,32.27
+Technical Project Manager II..,10659,21,72,155272,98298,56974,36.69
+Technical Project Manager.Senior Lead.,12278,25,63,273914,181992,91922,33.56
+Technical Project Manager.Senior Lead.,16544,25,46,251829,177961,73868,29.33
+Technical Project Manager.Senior.,5737,33,117,223622,136572,87050,38.93
+Technical Project Manager.Senior.,15977,107,33,229266,174004,55262,24.1
+Technical Project Manager.Senior.,15303,32,56,233004,150514,82490,35.4
+Technical Project Manager.Senior.,16409,54,48,216165,169651,46514,21.52
+Technical Project Manager.Senior.,11169,33,69,240797,183559,57238,23.77
+Technical Solutions Engineer II..,16438,14,48,137514,120402,17112,12.44
+Technical Solutions Engineer II..,10661,2,72,158238,127918,30320,19.16
+Technical Solutions Engineer II..,16354,2,48,157715,129551,28164,17.86
+Technical Solutions Engineer II..,14635,3,60,186602,129486,57116,30.61
+Technical Solutions Engineer II..,16229,12,48,149867,121039,28828,19.24
+Technical Solutions Engineer II..,19182,3,33,126448,107056,19392,15.34
+Technical Solutions Engineer II..,10662,3,72,128250,107608,20642,16.1
+Technical Solutions Engineer II..,15648,2,52,124936,109041,15895,12.72
+Technical Solutions Engineer II..,15763,2,51,136710,120438,16272,11.9
+Technical Solutions Engineer II..,15635,3,52,151901,126694,25207,16.59
+Technical Solutions Engineer II..,18637,2,35,152784,118903,33881,22.18
+Technical Solutions Engineer II..,6358,2,106,152445,96761,55684,36.53
+Technical Solutions Engineer II..,15630,2,52,168590,133027,35563,21.09
+Technical Solutions Engineer II..,16230,3,48,122087,105785,16302,13.35
+Technical Solutions Engineer II..,16521,8,47,174171,107224,66947,38.44
+Technical Solutions Engineer II..,15260,2,56,152434,128631,23803,15.62
+Technical Solutions Engineer II..,16245,3,48,121771,96914,24857,20.41
+Technical Solutions Engineer II..,14782,14,59,129672,108135,21537,16.61
+Technical Solutions Engineer II..,18889,3,34,142747,118850,23897,16.74
+Technical Solutions Engineer II..,16241,2,48,138604,111990,26614,19.2
+Technical Solutions Engineer II..,18779,2,35,152143,126193,25950,17.06
+Technical Solutions Engineer II..,20360,3,25,188956,148604,40352,21.36
+Technical Solutions Engineer II..,15057,3,57,180898,126725,54173,29.95
+Technical Solutions Engineer II..,16604,2,46,168105,109937,58168,34.6
+Technical Solutions Engineer II.Lead.,17276,2,41,177634,116894,60740,34.19
+Technical Solutions Engineer II.Lead.,14834,2,58,172232,118958,53274,30.93
+Technical Solutions Engineer II.Lead.,17927,9,38,164465,138662,25803,15.69
+Technical Solutions Engineer II.Lead.,16999,3,43,163872,108626,55246,33.71
+Technical Solutions Engineer II.Lead.,16514,2,47,189750,139842,49908,26.3
+Technical Solutions Engineer II.Lead.,12060,3,64,175595,113132,62463,35.57
+Technical Solutions Engineer..,17661,2,39,112522,97554,14968,13.3
+Technical Solutions Engineer..,21773,3,14,93100,83849,9251,9.94
+Technical Solutions Engineer..,18759,14,35,110977,91115,19862,17.9
+Technical Solutions Engineer..,22996,2,6,120239,113834,6405,5.33
+Technical Solutions Engineer..,21968,2,13,122301,82474,39827,32.56
+Technical Solutions Engineer..,22394,2,10,112646,100092,12554,11.14
+Technical Solutions Engineer..,18835,9,34,88934,88734,200,0.22
+Technical Solutions Engineer..,18547,9,36,93592,77555,16037,17.14
+Technical Solutions Engineer..,18149,9,37,89792,79425,10367,11.55
+Technical Solutions Engineer..,16238,2,48,113985,99399,14586,12.8
+Technical Solutions Engineer..,22564,2,9,101585,94696,6889,6.78
+Technical Solutions Engineer..,22787,2,8,105552,99634,5918,5.61
+Technical Solutions Engineer..,22012,8,13,115484,97972,17512,15.16
+Technical Solutions Engineer..,17973,2,38,111329,95935,15394,13.83
+Technical Solutions Engineer..,18768,2,35,96634,82434,14200,14.69
+Technical Solutions Engineer..,16866,14,44,93852,81920,11932,12.71
+Technical Solutions Engineer..,16721,2,45,105859,78703,27156,25.65
+Technical Solutions Engineer..,23039,3,6,69138,65440,3698,5.35
+Technical Solutions Engineer..,20854,2,21,139008,116079,22929,16.49
+Technical Solutions Engineer..,22455,2,10,114686,102362,12324,10.75
+Technical Solutions Engineer..,21716,2,14,119984,100398,19586,16.32
+Technical Solutions Engineer..,22549,2,9,107952,94393,13559,12.56
+Technical Solutions Engineer..,22836,2,7,119552,114654,4898,4.1
+Technical Solutions Engineer..,17670,2,39,92161,81918,10243,11.11
+Technical Solutions Engineer..,22245,2,11,118122,103017,15105,12.79
+Technical Solutions Engineer..,21787,8,14,114684,108661,6023,5.25
+Technical Solutions Engineer..,16305,2,48,89962,64185,25777,28.65
+Technical Solutions Engineer..,21691,2,15,122261,104482,17779,14.54
+Technical Solutions Engineer..,16227,2,48,117409,63741,53668,45.71
+Technical Solutions Engineer..,18203,14,37,93608,74000,19608,20.95
+Technical Solutions Engineer..,16249,2,48,121822,105063,16759,13.76
+Technical Solutions Engineer..,21399,2,17,117271,98700,18571,15.84
+Technical Solutions Engineer..,16246,2,48,103253,90175,13078,12.67
+Technical Solutions Engineer..,22170,3,12,124546,107013,17533,14.08
+Technical Solutions Engineer..,22553,2,9,123560,110366,13194,10.68
+Technical Solutions Engineer..,18585,9,36,84392,75920,8472,10.04
+Technical Solutions Engineer..,21418,2,17,95669,74719,20950,21.9
+Technical Solutions Engineer..,22849,2,7,93185,70800,22385,24.02
+Technical Solutions Engineer..,16313,3,48,116556,111829,4727,4.06
+Technical Solutions Engineer..,22864,2,7,115286,108590,6696,5.81
+Technical Solutions Engineer..,18868,14,34,104772,92547,12225,11.67
+Technical Solutions Engineer..,18477,2,36,97853,85731,12122,12.39
+Technical Solutions Engineer..,20069,3,26,80457,69603,10854,13.49
+Technical Solutions Engineer..,18247,2,37,89630,78200,11430,12.75
+Technical Solutions Engineer..,17665,2,39,108536,93041,15495,14.28
+Technical Solutions Engineer..,21155,2,19,118899,97051,21848,18.38
+Technical Solutions Engineer..,21969,2,13,73977,63186,10791,14.59
+Technical Solutions Engineer..,16242,3,48,111754,98129,13625,12.19
+Technical Solutions Engineer..,18770,9,35,108519,85922,22597,20.82
+Technical Solutions Engineer..,18588,2,36,111835,97535,14300,12.79
+Technical Solutions Engineer..,17672,9,39,87196,78035,9161,10.51
+Technical Solutions Engineer..,18465,3,36,80779,68305,12474,15.44
+Technical Solutions Engineer..,19918,9,28,94002,82089,11913,12.67
+Technical Solutions Engineer..,19365,8,32,102059,84276,17783,17.42
+Technical Solutions Engineer..,17667,2,39,97572,83360,14212,14.57
+Technical Solutions Engineer..,22612,9,9,99552,88551,11001,11.05
+Technical Solutions Engineer..,22436,2,10,119646,105562,14084,11.77
+Technical Solutions Engineer..,16250,14,48,105764,90906,14858,14.05
+Technical Solutions Engineer..,18206,3,37,94772,74490,20282,21.4
+Technical Solutions Engineer..,19041,2,33,87043,71298,15745,18.09
+Technical Solutions Engineer..,21937,9,13,120275,102217,18058,15.01
+Technical Solutions Engineer..,18998,2,34,110352,86842,23510,21.3
+Technical Solutions Engineer.Associate.,22117,2,12,99528,88221,11307,11.36
+Technical Solutions Engineer.Associate.,21437,14,8,96995,91930,5065,5.22
+Technical Solutions Engineer.Associate.,21779,9,14,93990,65656,28334,30.15
+Technical Solutions Engineer.Associate.,22144,2,12,56628,51063,5565,9.83
+Technical Solutions Engineer.Associate.,20453,3,24,87010,67088,19922,22.9
+Technical Solutions Engineer.Associate.,20333,2,25,101450,73202,28248,27.84
+Technical Solutions Engineer.Associate.,20444,2,24,83667,73330,10337,12.35
+Technical Solutions Engineer.Associate.,20435,3,24,74127,65728,8399,11.33
+Technical Solutions Engineer.Associate.,22619,9,9,88686,82614,6072,6.85
+Technical Solutions Engineer.Associate.,20442,2,24,89204,69269,19935,22.35
+Technical Solutions Engineer.Associate.,22430,2,10,93990,87863,6127,6.52
+Technical Solutions Engineer.Associate.,20655,2,23,78816,68561,10255,13.01
+Technical Solutions Engineer.Associate.,21848,9,13,88872,77730,11142,12.54
+Technical Solutions Engineer.Associate.,17736,2,14,88970,76129,12841,14.43
+Technical Solutions Engineer.Associate.,22095,3,12,106778,93809,12969,12.15
+Technical Solutions Engineer.Associate.,22141,9,12,73622,60441,13181,17.9
+Technical Solutions Engineer.Associate.,20448,3,24,89352,79134,10218,11.44
+Technical Solutions Engineer.Associate.,17882,14,22,87102,77481,9621,11.05
+Technical Solutions Engineer.Associate.,20024,3,12,112259,97820,14439,12.86
+Technical Solutions Engineer.Associate.,20443,2,24,80502,71514,8988,11.16
+Technical Solutions Engineer.Associate.,18280,2,16,103601,91024,12577,12.14
+Technical Solutions Engineer.Associate.,20446,2,24,97103,83398,13705,14.11
+Technical Solutions Engineer.Associate.,22150,3,12,68317,51646,16671,24.4
+Technical Solutions Engineer.Associate.,21665,9,15,91968,87195,4773,5.19
+Technical Solutions Engineer.Associate.,20438,3,24,60341,55649,4692,7.78
+Technical Solutions Engineer.Associate.,21808,9,14,107990,92684,15306,14.17
+Technical Solutions Engineer.Associate.,20451,3,24,72529,64486,8043,11.09
+Technical Solutions Engineer.Associate.,22284,2,11,93990,89843,4147,4.41
+Technical Solutions Engineer.Senior Lead.,4057,2,41,177146,123023,54123,30.55
+Technical Solutions Engineer.Senior.,6236,14,108,183986,140764,43222,23.49
+Technical Solutions Engineer.Senior.,6215,2,108,238415,146494,91921,38.56
+Technical Support Engineer..,18483,14,36,82178,70847,11331,13.79
+Technical Writer.Senior II.,4422,81,142,183373,115723,67650,36.89
+Telecom Engineer II..,15611,46,52,161237,135403,25834,16.02
+Travel and Vendor Management Specialist..,10514,58,48,65681,61112,4569,6.96
+User Interface Engineer II..,17057,63,42,59556,57107,2449,4.11
+User Interface Engineer..,22272,4,11,96185,88838,7347,7.64
+User Interface Engineer.Senior II.,5444,63,37,272687,203335,69352,25.43
+User Interface Engineer.Senior.,6258,4,108,176483,146858,29625,16.79
+User Interface Engineer.Senior.,5734,63,70,220125,167269,52856,24.01
+User Interface Engineer.Senior.,15354,63,55,186174,147766,38408,20.63
+Vice President & Managing Director India..,4672,43,137,1024965,514604,510361,49.79
+Vice President..Platform Delivery,3041,111,173,942563,167351,775212,82.25
+Web Content Publisher..,18393,86,36,79423,70461,8962,11.28
+Web Content Publisher.Senior.,19618,86,31,118142,101018,17124,14.49
+Web Developer II..,8768,86,84,144956,98181,46775,32.27
+Web Developer.Senior Lead.,8588,86,80,197513,151954,45559,23.07
+Web Developer.Senior Lead.,6055,85,105,195345,150216,45129,23.1
+Web Developer.Senior.,20761,86,22,227016,137084,89932,39.61
+Web Developer.Senior.,19703,85,30,189110,136705,52405,27.71
