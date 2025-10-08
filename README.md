@@ -1,3 +1,6 @@
+
+![6470813](https://github.com/user-attachments/assets/64d02023-f727-45f5-865a-fdac1c71ce4a)
+
 # 🏢 Max Holdings — Full SQL Project  
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)  
