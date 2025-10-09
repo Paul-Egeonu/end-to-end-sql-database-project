@@ -860,6 +860,7 @@ GROUP BY Gender;
 -- Female	|		$5,465		|		$4,393
 -- =============================================================
 
+
 -- ii. Average Salary Comparison by Gender in each Department:
 
 WITH mth_pay AS
@@ -878,6 +879,43 @@ JOIN departments AS d ON dv.Dept_ID = d.Dept_ID
 JOIN mth_pay AS mp ON s.EmpID = mp.EmpID
 GROUP BY Department, Gender
 ORDER BY Department, Net_monthly_Salary DESC;
+-- =============================================================
+
+
+-- iii. Tenure Bucket vs Net Salary Correlation:
+
+SELECT 
+  CASE 
+		WHEN ROUND(Tenure_in_org_in_months/12,2) < 1 THEN 'a. Less than 1 Year'
+		WHEN ROUND(Tenure_in_org_in_months/12,2) BETWEEN 1 AND 2.99 THEN 'b. 1.00-2.99 Years'
+		WHEN ROUND(Tenure_in_org_in_months/12,2) BETWEEN 3 AND 4.99 THEN 'c. 3.00-4.99 Years'
+		WHEN ROUND(Tenure_in_org_in_months/12,2) BETWEEN 5 AND 6.99 THEN 'd. 5.00-6.99 Years'
+		WHEN ROUND(Tenure_in_org_in_months/12,2) BETWEEN 7 AND 8.99 THEN 'e. 7.00-8.99 Years'
+		WHEN ROUND(Tenure_in_org_in_months/12,2) BETWEEN 9 AND 10.99 THEN 'f. 9.00-10.99 Years'
+		WHEN ROUND(Tenure_in_org_in_months/12,2) BETWEEN 11 AND 12.99 THEN 'g. 11.00-12.99 Years'
+		WHEN ROUND(Tenure_in_org_in_months/12,2) BETWEEN 13 AND 14.99 THEN 'h. 13.00-14.99 Years'
+		ELSE 'i. >= 15 Years'
+	END AS Tenure,
+        ROUND(AVG(Net_Pay/Tenure_in_org_in_months)) AS Avg_Monthly_Net_Salary
+FROM Salary
+GROUP BY Tenure
+ORDER BY Tenure;
+-- _____________________________________________________________
+-- a. Less than 1 Year => $14,270
+-- b. 1.00-2.99 Years => $4,910
+-- c. 3.00-4.99 Years => $2,647
+-- d. 5.00-6.99 Years => $1,936
+-- e. 7.00-8.99 Years => $1,609
+-- f. 9.00-10.99 Years => $1,479
+-- g. 11.00-12.99 Years => $1,211
+-- h. 13.00-14.99 Years => $1,046
+-- i. >= 15 Years => $1,025
+
+-- There is a negative correlation between tenure and salary
+-- More recently recruited employees earn greater than their older colleagues
+-- =============================================================
+
+
 
 
 -- =============================================================
@@ -1192,8 +1230,6 @@ implement tenure-based raises to incentivize loyalty.
 
 */
 -- =============================================================
-
-
 
 
 
