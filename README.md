@@ -74,18 +74,18 @@ This project showcases a wide range of SQL capabilities:
 
 ## 🔍 Highlighted Queries & Insights  
 
-### 1️⃣ Duplicate Records Detection with CTE + Window Function  
+### 1️⃣ Duplicate Records Detection & Deletion with CTE + Window Function  
 
 ```sql
 WITH Duplicate_emp AS (
-    SELECT emp_unique_id, ID, First_Name, Last_Name,
-           ROW_NUMBER() OVER(PARTITION BY ID ORDER BY emp_unique_id) AS entry_no
-    FROM employee_info
-)
-SELECT * 
-FROM Duplicate_emp
-WHERE entry_no > 1
-ORDER BY ID;
+						SELECT 	emp_unique_id,
+								ROW_NUMBER() OVER (PARTITION BY ID ORDER BY emp_unique_id) AS entry_no
+						FROM employee_info)
+                        
+DELETE FROM employee_info
+WHERE emp_unique_id IN (
+						SELECT emp_unique_id 
+                        FROM Duplicate_emp WHERE entry_no > 1);
 ```
 
 **Insight:**  
@@ -96,7 +96,8 @@ Duplicate employee entries were detected and removed to ensure data integrity.
 ### 2️⃣ Gender Balance Analysis  
 
 ```sql
-SELECT Gender, COUNT(*) AS EmployeeCount
+SELECT 	Gender, COUNT(*) AS Total_Employees, 
+		CONCAT(ROUND(COUNT(*)/1802 * 100), '%') AS "%"
 FROM employee_info
 GROUP BY Gender;
 ```
@@ -109,10 +110,23 @@ Workforce distribution shows **72% Male** vs **28% Female**, indicating a gender
 ### 3️⃣ Salary Disparities Across Departments  
 
 ```sql
-SELECT Department, ROUND(AVG(Net_Pay), 2) AS AvgNetSalary
-FROM raw_view
+WITH mth_pay AS
+				(SELECT EmpID, 
+						Gross_Pay/Tenure_in_org_in_months AS Gross_monthly_pay, 
+						Net_Pay/Tenure_in_org_in_months AS Net_monthly_pay 
+				FROM salary)
+
+SELECT 	Department, 
+		ROUND(AVG(Gross_monthly_pay)) AS Gross_monthly_Salary, 
+		CONCAT(ROUND(AVG(Deduction_percentage),2),'%') AS "Deduction_%",
+		ROUND(AVG(Net_monthly_pay)) AS Net_monthly_Salary
+FROM salary AS s
+JOIN employee_info AS i ON EmpID = ID
+JOIN division AS dv ON s.Division_ID = dv.Division_ID
+JOIN departments AS d ON dv.Dept_ID = d.Dept_ID
+JOIN mth_pay AS mp ON s.EmpID = mp.EmpID
 GROUP BY Department
-ORDER BY AvgNetSalary DESC;
+ORDER BY Net_monthly_Salary DESC;
 ```
 
 **Insight:**  
@@ -127,25 +141,47 @@ Significant pay gaps across departments highlight internal inequality.
 ### 4️⃣ Tenure vs Salary Correlation  
 
 ```sql
-SELECT Tenure_in_org_in_months,
-       ROUND(AVG(Net_Pay), 2) AS AvgNetSalary
-FROM raw_view
-GROUP BY Tenure_in_org_in_months
-ORDER BY Tenure_in_org_in_months;
+-- iii. Tenure Bucket vs Net Salary Correlation:
+
+SELECT 
+  CASE 
+		WHEN ROUND(Tenure_in_org_in_months/12,2) < 1 THEN 'a. Less than 1 Year'
+		WHEN ROUND(Tenure_in_org_in_months/12,2) BETWEEN 1 AND 2.99 THEN 'b. 1.00-2.99 Years'
+		WHEN ROUND(Tenure_in_org_in_months/12,2) BETWEEN 3 AND 4.99 THEN 'c. 3.00-4.99 Years'
+		WHEN ROUND(Tenure_in_org_in_months/12,2) BETWEEN 5 AND 6.99 THEN 'd. 5.00-6.99 Years'
+		WHEN ROUND(Tenure_in_org_in_months/12,2) BETWEEN 7 AND 8.99 THEN 'e. 7.00-8.99 Years'
+		WHEN ROUND(Tenure_in_org_in_months/12,2) BETWEEN 9 AND 10.99 THEN 'f. 9.00-10.99 Years'
+		WHEN ROUND(Tenure_in_org_in_months/12,2) BETWEEN 11 AND 12.99 THEN 'g. 11.00-12.99 Years'
+		WHEN ROUND(Tenure_in_org_in_months/12,2) BETWEEN 13 AND 14.99 THEN 'h. 13.00-14.99 Years'
+		ELSE 'i. >= 15 Years'
+	END AS Tenure,
+        ROUND(AVG(Net_Pay/Tenure_in_org_in_months)) AS Avg_Monthly_Net_Salary
+FROM Salary
+GROUP BY Tenure
+ORDER BY Tenure;
 ```
 
 **Insight:**  
-Short-tenured employees (< 1 year) earn disproportionately high salaries — possibly due to executive hires or pay misalignment.  
+Short-tenured employees earn disproportionately high salaries — possibly due to executive hires or pay misalignment.  
 
 ---
 
 ### 5️⃣ Age Distribution of Workforce  
 
 ```sql
-SELECT Age, COUNT(*) AS EmployeeCount
+SELECT 
+  CASE 
+		WHEN Age BETWEEN 21 AND 25 THEN '21-25'
+		WHEN Age BETWEEN 26 AND 30 THEN '26-30'
+		WHEN Age BETWEEN 31 AND 35 THEN '31-35'
+		WHEN Age BETWEEN 36 AND 40 THEN '36-40'
+		WHEN Age BETWEEN 41 AND 45 THEN '41-45'
+		WHEN Age BETWEEN 46 AND 50 THEN '46-50'
+		ELSE 'Above 50'
+  END AS Age_Group,
+		COUNT(*) AS no_of_employees
 FROM employee_info
-GROUP BY Age
-ORDER BY EmployeeCount DESC;
+GROUP BY Age_Group;
 ```
 
 **Insight:**  
