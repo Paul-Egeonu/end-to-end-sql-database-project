@@ -226,8 +226,7 @@ The majority of employees are **26–35 years old**, confirming a young, mid-car
 
 **Paul Egeonu**  
 _Data Analyst | Data Scientist_  
-
-[LinkedIn](https://www.linkedin.com/in/paul-egeonu) | [GitHub](https://github.com/Paul-Egeonu) 
+ 
 
 ---
 
